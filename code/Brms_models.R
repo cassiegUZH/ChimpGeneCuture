@@ -117,7 +117,7 @@ library(dplyr)
   
   # again, this is repeated for each model combination
   
-# TEST LESS INFORMATIVE; WIDE PRIOR
+# TEST LESS INFORMATIVE WIDE PRIOR
   
   # wide prior
   priors_wide <- c(prior(normal(0,10), class=Intercept),
@@ -134,6 +134,9 @@ library(dplyr)
   
   
   # repeat for each model formula
+  
+  
+# ROBUSTNESS OF IBD DATA
   
   
   

@@ -1,0 +1,596 @@
+"site1"	"site2"	"dyad_ID"	"nepra_proportion"
+"1"	"Bafing"	"Bateke"	"Bafing_Bateke"	1.39235204229037e-05
+"2"	"Bafing"	"Bili-Uele"	"Bafing_Bili-Uele"	4.65430929508862e-05
+"3"	"Bafing"	"Boe"	"Bafing_Boe"	0.00210991230810711
+"4"	"Bafing"	"Budongo"	"Bafing_Budongo"	8.03822335972014e-05
+"5"	"Bafing"	"Bwindi"	"Bafing_Bwindi"	7.29116182519225e-05
+"6"	"Bafing"	"Comoe"	"Bafing_Comoe"	0.00147946084724005
+"7"	"Bafing"	"Conkouati"	"Bafing_Conkouati"	0.000131749765421149
+"8"	"Bafing"	"Dindefelo"	"Bafing_Dindefelo"	0.00167176770144801
+"9"	"Bafing"	"Djouroutou"	"Bafing_Djouroutou"	0.000537075965098656
+"10"	"Bafing"	"East Nimba"	"Bafing_East Nimba"	0.00104503948878724
+"11"	"Bafing"	"Gashaka"	"Bafing_Gashaka"	0.000236461002658849
+"12"	"Bafing"	"Gishwati"	"Bafing_Gishwati"	0.000103898329593351
+"13"	"Bafing"	"Goualougo"	"Bafing_Goualougo"	7.19348763901146e-05
+"14"	"Bafing"	"Grebo"	"Bafing_Grebo"	0.00141759291652892
+"15"	"Bafing"	"Issa-Ugalla"	"Bafing_Issa-Ugalla"	0.000165871375844205
+"16"	"Bafing"	"Kabogo"	"Bafing_Kabogo"	2.17698922390334e-05
+"17"	"Bafing"	"Kayan"	"Bafing_Kayan"	0.00216972189471927
+"18"	"Bafing"	"Korup"	"Bafing_Korup"	6.55620711595673e-05
+"19"	"Bafing"	"La Belgique"	"Bafing_La Belgique"	1.4711326986213e-05
+"20"	"Bafing"	"Loango"	"Bafing_Loango"	0.000119003075854276
+"21"	"Bafing"	"Lope"	"Bafing_Lope"	3.66830337732061e-05
+"22"	"Bafing"	"Mbe"	"Bafing_Mbe"	8.89952543012586e-05
+"23"	"Bafing"	"Mt. Cameroon"	"Bafing_Mt. Cameroon"	9.38443942637614e-06
+"24"	"Bafing"	"Mt. Sangbe"	"Bafing_Mt. Sangbe"	0.00040236413198838
+"25"	"Bafing"	"Mt. Cristal"	"Bafing_Mt. Cristal"	0.000128542690098571
+"26"	"Bafing"	"Ngogo"	"Bafing_Ngogo"	0.000233205712042294
+"27"	"Bafing"	"Nyungwe"	"Bafing_Nyungwe"	0.000108168893410801
+"28"	"Bafing"	"Outamba-Kilimi"	"Bafing_Outamba-Kilimi"	0.00044591196610199
+"29"	"Bafing"	"Rubi-Tele"	"Bafing_Rubi-Tele"	4.01565889907998e-05
+"30"	"Bafing"	"Sangaredi"	"Bafing_Sangaredi"	0.00116140652555899
+"31"	"Bafing"	"Sapo"	"Bafing_Sapo"	0.00101030424713069
+"32"	"Bafing"	"Sobeya"	"Bafing_Sobeya"	0.00157569996617383
+"33"	"Bafing"	"Bakoun-Sobory"	"Bafing_Bakoun-Sobory"	0.00247994008772868
+"34"	"Bafing"	"Tai"	"Bafing_Tai"	0.00101083759245041
+"35"	"Bateke"	"Bili-Uele"	"Bateke_Bili-Uele"	8.46553483625568e-05
+"36"	"Bateke"	"Boe"	"Bateke_Boe"	2.99715961488804e-05
+"37"	"Bateke"	"Budongo"	"Bateke_Budongo"	0.00013607968272676
+"38"	"Bateke"	"Bwindi"	"Bateke_Bwindi"	0.000152270386063107
+"39"	"Bateke"	"Comoe"	"Bateke_Comoe"	4.95669234156452e-05
+"40"	"Bateke"	"Conkouati"	"Bateke_Conkouati"	0.00307835627304444
+"41"	"Bateke"	"Dindefelo"	"Bateke_Dindefelo"	1.73058485692101e-05
+"42"	"Bateke"	"Djouroutou"	"Bateke_Djouroutou"	9.24265670924451e-06
+"43"	"Bateke"	"East Nimba"	"Bateke_East Nimba"	2.19143954510329e-05
+"44"	"Bateke"	"Gashaka"	"Bateke_Gashaka"	0.00032848027735261
+"45"	"Bateke"	"Gishwati"	"Bateke_Gishwati"	0.000129150100091328
+"46"	"Bateke"	"Goualougo"	"Bateke_Goualougo"	0.00091649929588845
+"47"	"Bateke"	"Grebo"	"Bateke_Grebo"	4.38017624445994e-05
+"48"	"Bateke"	"Issa-Ugalla"	"Bateke_Issa-Ugalla"	0.000213236328093483
+"49"	"Bateke"	"Kabogo"	"Bateke_Kabogo"	6.7028947974568e-05
+"50"	"Bateke"	"Kayan"	"Bateke_Kayan"	5.99425013083604e-05
+"51"	"Bateke"	"Korup"	"Bateke_Korup"	9.5869525041582e-05
+"52"	"Bateke"	"La Belgique"	"Bateke_La Belgique"	0.000259505346837889
+"53"	"Bateke"	"Loango"	"Bateke_Loango"	0.0026991020295171
+"54"	"Bateke"	"Lope"	"Bateke_Lope"	0.00191664448328144
+"55"	"Bateke"	"Mbe"	"Bateke_Mbe"	8.42382210734026e-05
+"56"	"Bateke"	"Mt. Cameroon"	"Bateke_Mt. Cameroon"	3.8215131466216e-05
+"57"	"Bateke"	"Mt. Sangbe"	"Bateke_Mt. Sangbe"	9.26397702533698e-06
+"58"	"Bateke"	"Mt. Cristal"	"Bateke_Mt. Cristal"	0.00124887998643875
+"59"	"Bateke"	"Ngogo"	"Bateke_Ngogo"	0.000275451931332945
+"60"	"Bateke"	"Nyungwe"	"Bateke_Nyungwe"	0.00020292816112496
+"61"	"Bateke"	"Outamba-Kilimi"	"Bateke_Outamba-Kilimi"	5.82114869891505e-06
+"62"	"Bateke"	"Rubi-Tele"	"Bateke_Rubi-Tele"	9.75859104533098e-05
+"63"	"Bateke"	"Sangaredi"	"Bateke_Sangaredi"	1.15483309197322e-05
+"64"	"Bateke"	"Sapo"	"Bateke_Sapo"	2.88227630653585e-05
+"65"	"Bateke"	"Sobeya"	"Bateke_Sobeya"	2.65174617485614e-05
+"66"	"Bateke"	"Bakoun-Sobory"	"Bakoun-Sobory_Bateke"	3.80407843318079e-05
+"67"	"Bateke"	"Tai"	"Bateke_Tai"	2.0760096326847e-05
+"68"	"Bili-Uele"	"Boe"	"Bili-Uele_Boe"	0.000144439403925328
+"69"	"Bili-Uele"	"Budongo"	"Bili-Uele_Budongo"	0.00239975145431366
+"70"	"Bili-Uele"	"Bwindi"	"Bili-Uele_Bwindi"	0.00205232518261943
+"71"	"Bili-Uele"	"Comoe"	"Bili-Uele_Comoe"	0.000212885909199346
+"72"	"Bili-Uele"	"Conkouati"	"Bili-Uele_Conkouati"	0.00121095966679872
+"73"	"Bili-Uele"	"Dindefelo"	"Bili-Uele_Dindefelo"	5.89577765843295e-05
+"74"	"Bili-Uele"	"Djouroutou"	"Bili-Uele_Djouroutou"	3.33072963393132e-05
+"75"	"Bili-Uele"	"East Nimba"	"Bili-Uele_East Nimba"	8.35326157381874e-05
+"76"	"Bili-Uele"	"Gashaka"	"Bili-Uele_Gashaka"	0.000632209298718359
+"77"	"Bili-Uele"	"Gishwati"	"Bili-Uele_Gishwati"	0.00216955744669003
+"78"	"Bili-Uele"	"Goualougo"	"Bili-Uele_Goualougo"	0.00109049849519794
+"79"	"Bili-Uele"	"Grebo"	"Bili-Uele_Grebo"	0.000182935048429647
+"80"	"Bili-Uele"	"Issa-Ugalla"	"Bili-Uele_Issa-Ugalla"	0.001910638598323
+"81"	"Bili-Uele"	"Kabogo"	"Bili-Uele_Kabogo"	0.000407901370365278
+"82"	"Bili-Uele"	"Kayan"	"Bili-Uele_Kayan"	0.000151925278440519
+"83"	"Bili-Uele"	"Korup"	"Bili-Uele_Korup"	0.000179421917622778
+"84"	"Bili-Uele"	"La Belgique"	"Bili-Uele_La Belgique"	0.000198436759307235
+"85"	"Bili-Uele"	"Loango"	"Bili-Uele_Loango"	0.000986100273535641
+"86"	"Bili-Uele"	"Lope"	"Bili-Uele_Lope"	0.000579114354055634
+"87"	"Bili-Uele"	"Mbe"	"Bili-Uele_Mbe"	0.000199419111427037
+"88"	"Bili-Uele"	"Mt. Cameroon"	"Bili-Uele_Mt. Cameroon"	5.39251027214593e-05
+"89"	"Bili-Uele"	"Mt. Sangbe"	"Bili-Uele_Mt. Sangbe"	5.39507602201623e-05
+"90"	"Bili-Uele"	"Mt. Cristal"	"Bili-Uele_Mt. Cristal"	0.00127006972532868
+"91"	"Bili-Uele"	"Ngogo"	"Bili-Uele_Ngogo"	0.00380847468503348
+"92"	"Bili-Uele"	"Nyungwe"	"Bili-Uele_Nyungwe"	0.00234658604916055
+"93"	"Bili-Uele"	"Outamba-Kilimi"	"Bili-Uele_Outamba-Kilimi"	3.04657119292847e-05
+"94"	"Bili-Uele"	"Rubi-Tele"	"Bili-Uele_Rubi-Tele"	0.0019149065438812
+"95"	"Bili-Uele"	"Sangaredi"	"Bili-Uele_Sangaredi"	5.90591343004714e-05
+"96"	"Bili-Uele"	"Sapo"	"Bili-Uele_Sapo"	0.00011880348832729
+"97"	"Bili-Uele"	"Sobeya"	"Bili-Uele_Sobeya"	0.0001370107885292
+"98"	"Bili-Uele"	"Bakoun-Sobory"	"Bakoun-Sobory_Bili-Uele"	0.00017439123550306
+"99"	"Bili-Uele"	"Tai"	"Bili-Uele_Tai"	7.06816711717308e-05
+"100"	"Boe"	"Budongo"	"Boe_Budongo"	0.000441174767330324
+"101"	"Boe"	"Bwindi"	"Boe_Bwindi"	0.000306774659780577
+"102"	"Boe"	"Comoe"	"Boe_Comoe"	0.00646761065800271
+"103"	"Boe"	"Conkouati"	"Boe_Conkouati"	0.00120799968907138
+"104"	"Boe"	"Dindefelo"	"Boe_Dindefelo"	0.00457363328332294
+"105"	"Boe"	"Djouroutou"	"Boe_Djouroutou"	0.00178635453584925
+"106"	"Boe"	"East Nimba"	"Boe_East Nimba"	0.00338141190770091
+"107"	"Boe"	"Gashaka"	"Boe_Gashaka"	0.00226178720980275
+"108"	"Boe"	"Gishwati"	"Boe_Gishwati"	0.000538666128000539
+"109"	"Boe"	"Goualougo"	"Boe_Goualougo"	0.000327564326765492
+"110"	"Boe"	"Grebo"	"Boe_Grebo"	0.00671093869398915
+"111"	"Boe"	"Issa-Ugalla"	"Boe_Issa-Ugalla"	0.00196856786949411
+"112"	"Boe"	"Kabogo"	"Boe_Kabogo"	6.35486232077302e-05
+"113"	"Boe"	"Kayan"	"Boe_Kayan"	0.00732352534591169
+"114"	"Boe"	"Korup"	"Boe_Korup"	0.000573693763748048
+"115"	"Boe"	"La Belgique"	"Boe_La Belgique"	3.53081549662746e-05
+"116"	"Boe"	"Loango"	"Boe_Loango"	0.00108005229726913
+"117"	"Boe"	"Lope"	"Boe_Lope"	0.000193609194521924
+"118"	"Boe"	"Mbe"	"Boe_Mbe"	0.000424700496572888
+"119"	"Boe"	"Mt. Cameroon"	"Boe_Mt. Cameroon"	3.95835346466529e-05
+"120"	"Boe"	"Mt. Sangbe"	"Boe_Mt. Sangbe"	0.00127261390213642
+"121"	"Boe"	"Mt. Cristal"	"Boe_Mt. Cristal"	0.000499835843386172
+"122"	"Boe"	"Ngogo"	"Boe_Ngogo"	0.00261897063885933
+"123"	"Boe"	"Nyungwe"	"Boe_Nyungwe"	0.000546709492243559
+"124"	"Boe"	"Outamba-Kilimi"	"Boe_Outamba-Kilimi"	0.00137956395886469
+"125"	"Boe"	"Rubi-Tele"	"Boe_Rubi-Tele"	0.000162971222713042
+"126"	"Boe"	"Sangaredi"	"Boe_Sangaredi"	0.00388169957780044
+"127"	"Boe"	"Sapo"	"Boe_Sapo"	0.00427320850321303
+"128"	"Boe"	"Sobeya"	"Boe_Sobeya"	0.00560465911546458
+"129"	"Boe"	"Bakoun-Sobory"	"Bakoun-Sobory_Boe"	0.00754674688598494
+"130"	"Boe"	"Tai"	"Boe_Tai"	0.00357096706074426
+"131"	"Budongo"	"Bwindi"	"Budongo_Bwindi"	0.00531099083568884
+"132"	"Budongo"	"Comoe"	"Budongo_Comoe"	0.000689161022736001
+"133"	"Budongo"	"Conkouati"	"Budongo_Conkouati"	0.00205235346017096
+"134"	"Budongo"	"Dindefelo"	"Budongo_Dindefelo"	0.000147877743132135
+"135"	"Budongo"	"Djouroutou"	"Budongo_Djouroutou"	9.32552108998386e-05
+"136"	"Budongo"	"East Nimba"	"Budongo_East Nimba"	0.000204602501634711
+"137"	"Budongo"	"Gashaka"	"Budongo_Gashaka"	0.00128999538084851
+"138"	"Budongo"	"Gishwati"	"Budongo_Gishwati"	0.00496873839819096
+"139"	"Budongo"	"Goualougo"	"Budongo_Goualougo"	0.00153381214241483
+"140"	"Budongo"	"Grebo"	"Budongo_Grebo"	0.00056505141231286
+"141"	"Budongo"	"Issa-Ugalla"	"Budongo_Issa-Ugalla"	0.00460261527062073
+"142"	"Budongo"	"Kabogo"	"Budongo_Kabogo"	0.000864142296188462
+"143"	"Budongo"	"Kayan"	"Budongo_Kayan"	0.000512528533736901
+"144"	"Budongo"	"Korup"	"Budongo_Korup"	0.000446963823468355
+"145"	"Budongo"	"La Belgique"	"Budongo_La Belgique"	0.000234963550214024
+"146"	"Budongo"	"Loango"	"Budongo_Loango"	0.00170848477041048
+"147"	"Budongo"	"Lope"	"Budongo_Lope"	0.000942570309354771
+"148"	"Budongo"	"Mbe"	"Budongo_Mbe"	0.000440515138614374
+"149"	"Budongo"	"Mt. Cameroon"	"Budongo_Mt. Cameroon"	0.000107111006587327
+"150"	"Budongo"	"Mt. Sangbe"	"Budongo_Mt. Sangbe"	9.37792394077415e-05
+"151"	"Budongo"	"Mt. Cristal"	"Budongo_Mt. Cristal"	0.00215510421083945
+"152"	"Budongo"	"Ngogo"	"Budongo_Ngogo"	0.0106579240766218
+"153"	"Budongo"	"Nyungwe"	"Budongo_Nyungwe"	0.00597419930232485
+"154"	"Budongo"	"Outamba-Kilimi"	"Budongo_Outamba-Kilimi"	6.35027241592347e-05
+"155"	"Budongo"	"Rubi-Tele"	"Budongo_Rubi-Tele"	0.00288760241009105
+"156"	"Budongo"	"Sangaredi"	"Budongo_Sangaredi"	0.000131322684193303
+"157"	"Budongo"	"Sapo"	"Budongo_Sapo"	0.000371782057776828
+"158"	"Budongo"	"Sobeya"	"Budongo_Sobeya"	0.000368688448780221
+"159"	"Budongo"	"Bakoun-Sobory"	"Bakoun-Sobory_Budongo"	0.000487298147530304
+"160"	"Budongo"	"Tai"	"Budongo_Tai"	0.00025517251560032
+"161"	"Bwindi"	"Comoe"	"Bwindi_Comoe"	0.000568679053338936
+"162"	"Bwindi"	"Conkouati"	"Bwindi_Conkouati"	0.00191238875604016
+"163"	"Bwindi"	"Dindefelo"	"Bwindi_Dindefelo"	0.000147956821972011
+"164"	"Bwindi"	"Djouroutou"	"Bwindi_Djouroutou"	0.000116599533601866
+"165"	"Bwindi"	"East Nimba"	"Bwindi_East Nimba"	0.000174110690079806
+"166"	"Bwindi"	"Gashaka"	"Bwindi_Gashaka"	0.00121540211484181
+"167"	"Bwindi"	"Gishwati"	"Bwindi_Gishwati"	0.00567142662657761
+"168"	"Bwindi"	"Goualougo"	"Bwindi_Goualougo"	0.0015547306492695
+"169"	"Bwindi"	"Grebo"	"Bwindi_Grebo"	0.000418124044870924
+"170"	"Bwindi"	"Issa-Ugalla"	"Bwindi_Issa-Ugalla"	0.00563723631092345
+"171"	"Bwindi"	"Kabogo"	"Bwindi_Kabogo"	0.00112537417839736
+"172"	"Bwindi"	"Kayan"	"Bwindi_Kayan"	0.000362379527242197
+"173"	"Bwindi"	"Korup"	"Bwindi_Korup"	0.000431299408685332
+"174"	"Bwindi"	"La Belgique"	"Bwindi_La Belgique"	0.000230076473037229
+"175"	"Bwindi"	"Loango"	"Bwindi_Loango"	0.00165711290349854
+"176"	"Bwindi"	"Lope"	"Bwindi_Lope"	0.000948228836384712
+"177"	"Bwindi"	"Mbe"	"Bwindi_Mbe"	0.000388939326521963
+"178"	"Bwindi"	"Mt. Cameroon"	"Bwindi_Mt. Cameroon"	0.000104785190359762
+"179"	"Bwindi"	"Mt. Sangbe"	"Bwindi_Mt. Sangbe"	0.000106594239434113
+"180"	"Bwindi"	"Mt. Cristal"	"Bwindi_Mt. Cristal"	0.00209188460649455
+"181"	"Bwindi"	"Ngogo"	"Bwindi_Ngogo"	0.00838905506264944
+"182"	"Bwindi"	"Nyungwe"	"Bwindi_Nyungwe"	0.00756653679589757
+"183"	"Bwindi"	"Outamba-Kilimi"	"Bwindi_Outamba-Kilimi"	4.95193927630637e-05
+"184"	"Bwindi"	"Rubi-Tele"	"Bwindi_Rubi-Tele"	0.00255361628131642
+"185"	"Bwindi"	"Sangaredi"	"Bwindi_Sangaredi"	0.000116547276343128
+"186"	"Bwindi"	"Sapo"	"Bwindi_Sapo"	0.000281463865099746
+"187"	"Bwindi"	"Sobeya"	"Bwindi_Sobeya"	0.000288891489615194
+"188"	"Bwindi"	"Bakoun-Sobory"	"Bakoun-Sobory_Bwindi"	0.000407682121716816
+"189"	"Bwindi"	"Tai"	"Bwindi_Tai"	0.000152987476128678
+"190"	"Comoe"	"Conkouati"	"Comoe_Conkouati"	0.00152138537289145
+"191"	"Comoe"	"Dindefelo"	"Comoe_Dindefelo"	0.00313169415399564
+"192"	"Comoe"	"Djouroutou"	"Comoe_Djouroutou"	0.00244776465993593
+"193"	"Comoe"	"East Nimba"	"Comoe_East Nimba"	0.00429866103155286
+"194"	"Comoe"	"Gashaka"	"Comoe_Gashaka"	0.00272896017639063
+"195"	"Comoe"	"Gishwati"	"Comoe_Gishwati"	0.000776193922611368
+"196"	"Comoe"	"Goualougo"	"Comoe_Goualougo"	0.000498359522670617
+"197"	"Comoe"	"Grebo"	"Comoe_Grebo"	0.00870680246983137
+"198"	"Comoe"	"Issa-Ugalla"	"Comoe_Issa-Ugalla"	0.0024344062753584
+"199"	"Comoe"	"Kabogo"	"Comoe_Kabogo"	0.000106390082633404
+"200"	"Comoe"	"Kayan"	"Comoe_Kayan"	0.00634948801185767
+"201"	"Comoe"	"Korup"	"Comoe_Korup"	0.000691070442832883
+"202"	"Comoe"	"La Belgique"	"Comoe_La Belgique"	4.98426916026006e-05
+"203"	"Comoe"	"Loango"	"Comoe_Loango"	0.00127744485836317
+"204"	"Comoe"	"Lope"	"Comoe_Lope"	0.000302326000778622
+"205"	"Comoe"	"Mbe"	"Comoe_Mbe"	0.000603052665198608
+"206"	"Comoe"	"Mt. Cameroon"	"Comoe_Mt. Cameroon"	6.74771682857309e-05
+"207"	"Comoe"	"Mt. Sangbe"	"Comoe_Mt. Sangbe"	0.00189933120197955
+"208"	"Comoe"	"Mt. Cristal"	"Comoe_Mt. Cristal"	0.00080459890692039
+"209"	"Comoe"	"Ngogo"	"Comoe_Ngogo"	0.00317929381930266
+"210"	"Comoe"	"Nyungwe"	"Comoe_Nyungwe"	0.000825909233832932
+"211"	"Comoe"	"Outamba-Kilimi"	"Comoe_Outamba-Kilimi"	0.00143267858349267
+"212"	"Comoe"	"Rubi-Tele"	"Comoe_Rubi-Tele"	0.000225622600754927
+"213"	"Comoe"	"Sangaredi"	"Comoe_Sangaredi"	0.00263165383160156
+"214"	"Comoe"	"Sapo"	"Comoe_Sapo"	0.00568649832959112
+"215"	"Comoe"	"Sobeya"	"Comoe_Sobeya"	0.00541840373700337
+"216"	"Comoe"	"Bakoun-Sobory"	"Bakoun-Sobory_Comoe"	0.0069225718017165
+"217"	"Comoe"	"Tai"	"Comoe_Tai"	0.00489236483153234
+"218"	"Conkouati"	"Dindefelo"	"Conkouati_Dindefelo"	0.000304568313935107
+"219"	"Conkouati"	"Djouroutou"	"Conkouati_Djouroutou"	0.000192476902771667
+"220"	"Conkouati"	"East Nimba"	"Conkouati_East Nimba"	0.000410274536784268
+"221"	"Conkouati"	"Gashaka"	"Conkouati_Gashaka"	0.00356923786705533
+"222"	"Conkouati"	"Gishwati"	"Conkouati_Gishwati"	0.00213719958455618
+"223"	"Conkouati"	"Goualougo"	"Conkouati_Goualougo"	0.00647668667456841
+"224"	"Conkouati"	"Grebo"	"Conkouati_Grebo"	0.00135882101307656
+"225"	"Conkouati"	"Issa-Ugalla"	"Conkouati_Issa-Ugalla"	0.00316788311979843
+"226"	"Conkouati"	"Kabogo"	"Conkouati_Kabogo"	0.00052845491576474
+"227"	"Conkouati"	"Kayan"	"Conkouati_Kayan"	0.00117157058634119
+"228"	"Conkouati"	"Korup"	"Conkouati_Korup"	0.000995093197555578
+"229"	"Conkouati"	"La Belgique"	"Conkouati_La Belgique"	0.00157968853746866
+"230"	"Conkouati"	"Loango"	"Conkouati_Loango"	0.0213441024398976
+"231"	"Conkouati"	"Lope"	"Conkouati_Lope"	0.0113444381951392
+"232"	"Conkouati"	"Mbe"	"Conkouati_Mbe"	0.000876912845192209
+"233"	"Conkouati"	"Mt. Cameroon"	"Conkouati_Mt. Cameroon"	0.000296723474666797
+"234"	"Conkouati"	"Mt. Sangbe"	"Conkouati_Mt. Sangbe"	0.000171265299522797
+"235"	"Conkouati"	"Mt. Cristal"	"Conkouati_Mt. Cristal"	0.00889065691725312
+"236"	"Conkouati"	"Ngogo"	"Conkouati_Ngogo"	0.00447957204051109
+"237"	"Conkouati"	"Nyungwe"	"Conkouati_Nyungwe"	0.00274657676850312
+"238"	"Conkouati"	"Outamba-Kilimi"	"Conkouati_Outamba-Kilimi"	0.000105306479464699
+"239"	"Conkouati"	"Rubi-Tele"	"Conkouati_Rubi-Tele"	0.00107466972388595
+"240"	"Conkouati"	"Sangaredi"	"Conkouati_Sangaredi"	0.000227243180854921
+"241"	"Conkouati"	"Sapo"	"Conkouati_Sapo"	0.00090915485342765
+"242"	"Conkouati"	"Sobeya"	"Conkouati_Sobeya"	0.000858936934288174
+"243"	"Conkouati"	"Bakoun-Sobory"	"Bakoun-Sobory_Conkouati"	0.00116644620973164
+"244"	"Conkouati"	"Tai"	"Conkouati_Tai"	0.000530946282955468
+"245"	"Dindefelo"	"Djouroutou"	"Dindefelo_Djouroutou"	0.00115065784389797
+"246"	"Dindefelo"	"East Nimba"	"Dindefelo_East Nimba"	0.00199034015956438
+"247"	"Dindefelo"	"Gashaka"	"Dindefelo_Gashaka"	0.000460724304890094
+"248"	"Dindefelo"	"Gishwati"	"Dindefelo_Gishwati"	0.000186609847306756
+"249"	"Dindefelo"	"Goualougo"	"Dindefelo_Goualougo"	0.000137549544287779
+"250"	"Dindefelo"	"Grebo"	"Dindefelo_Grebo"	0.00301744311399288
+"251"	"Dindefelo"	"Issa-Ugalla"	"Dindefelo_Issa-Ugalla"	0.000390365649506361
+"252"	"Dindefelo"	"Kabogo"	"Dindefelo_Kabogo"	3.51756285090526e-05
+"253"	"Dindefelo"	"Kayan"	"Dindefelo_Kayan"	0.00402109946515065
+"254"	"Dindefelo"	"Korup"	"Dindefelo_Korup"	0.00012172545300392
+"255"	"Dindefelo"	"La Belgique"	"Dindefelo_La Belgique"	8.51663359373954e-06
+"256"	"Dindefelo"	"Loango"	"Dindefelo_Loango"	0.000243823661661421
+"257"	"Dindefelo"	"Lope"	"Dindefelo_Lope"	7.45180280400694e-05
+"258"	"Dindefelo"	"Mbe"	"Dindefelo_Mbe"	0.000149924562605647
+"259"	"Dindefelo"	"Mt. Cameroon"	"Dindefelo_Mt. Cameroon"	2.56135910371059e-05
+"260"	"Dindefelo"	"Mt. Sangbe"	"Dindefelo_Mt. Sangbe"	0.000748309384949295
+"261"	"Dindefelo"	"Mt. Cristal"	"Dindefelo_Mt. Cristal"	0.00019823653836826
+"262"	"Dindefelo"	"Ngogo"	"Dindefelo_Ngogo"	0.000493194131305313
+"263"	"Dindefelo"	"Nyungwe"	"Dindefelo_Nyungwe"	0.000197062192617228
+"264"	"Dindefelo"	"Outamba-Kilimi"	"Dindefelo_Outamba-Kilimi"	0.00105567219550791
+"265"	"Dindefelo"	"Rubi-Tele"	"Dindefelo_Rubi-Tele"	7.3999875594412e-05
+"266"	"Dindefelo"	"Sangaredi"	"Dindefelo_Sangaredi"	0.00249438551690798
+"267"	"Dindefelo"	"Sapo"	"Dindefelo_Sapo"	0.00205865698943517
+"268"	"Dindefelo"	"Sobeya"	"Dindefelo_Sobeya"	0.00309089396949321
+"269"	"Dindefelo"	"Bakoun-Sobory"	"Bakoun-Sobory_Dindefelo"	0.00438955427037466
+"270"	"Dindefelo"	"Tai"	"Dindefelo_Tai"	0.00205003734523324
+"271"	"Djouroutou"	"East Nimba"	"Djouroutou_East Nimba"	0.00176404125045052
+"272"	"Djouroutou"	"Gashaka"	"Djouroutou_Gashaka"	0.000272383482158882
+"273"	"Djouroutou"	"Gishwati"	"Djouroutou_Gishwati"	7.50958794573635e-05
+"274"	"Djouroutou"	"Goualougo"	"Djouroutou_Goualougo"	8.7008745439999e-05
+"275"	"Djouroutou"	"Grebo"	"Djouroutou_Grebo"	0.00294526867395348
+"276"	"Djouroutou"	"Issa-Ugalla"	"Djouroutou_Issa-Ugalla"	0.00024079029910802
+"277"	"Djouroutou"	"Kabogo"	"Djouroutou_Kabogo"	3.1824040334698e-05
+"278"	"Djouroutou"	"Kayan"	"Djouroutou_Kayan"	0.00166907367994325
+"279"	"Djouroutou"	"Korup"	"Djouroutou_Korup"	0.000100856216193262
+"280"	"Djouroutou"	"La Belgique"	"Djouroutou_La Belgique"	1.09593311398435e-05
+"281"	"Djouroutou"	"Loango"	"Djouroutou_Loango"	0.000154629239330053
+"282"	"Djouroutou"	"Lope"	"Djouroutou_Lope"	5.97472265550816e-05
+"283"	"Djouroutou"	"Mbe"	"Djouroutou_Mbe"	9.21163249186306e-05
+"284"	"Djouroutou"	"Mt. Cameroon"	"Djouroutou_Mt. Cameroon"	1.63177199949182e-05
+"285"	"Djouroutou"	"Mt. Sangbe"	"Djouroutou_Mt. Sangbe"	0.000742511673755733
+"286"	"Djouroutou"	"Mt. Cristal"	"Djouroutou_Mt. Cristal"	0.000137501824543441
+"287"	"Djouroutou"	"Ngogo"	"Djouroutou_Ngogo"	0.000320871080543919
+"288"	"Djouroutou"	"Nyungwe"	"Djouroutou_Nyungwe"	0.000102547512799938
+"289"	"Djouroutou"	"Outamba-Kilimi"	"Djouroutou_Outamba-Kilimi"	0.000552489757938405
+"290"	"Djouroutou"	"Rubi-Tele"	"Djouroutou_Rubi-Tele"	4.08418142793731e-05
+"291"	"Djouroutou"	"Sangaredi"	"Djouroutou_Sangaredi"	0.000962151485288205
+"292"	"Djouroutou"	"Sapo"	"Djouroutou_Sapo"	0.00209776470811917
+"293"	"Djouroutou"	"Sobeya"	"Djouroutou_Sobeya"	0.00157725873910154
+"294"	"Djouroutou"	"Bakoun-Sobory"	"Bakoun-Sobory_Djouroutou"	0.00206611570247934
+"295"	"Djouroutou"	"Tai"	"Djouroutou_Tai"	0.00233081753028477
+"296"	"East Nimba"	"Gashaka"	"East Nimba_Gashaka"	0.000592646360049971
+"297"	"East Nimba"	"Gishwati"	"East Nimba_Gishwati"	0.000255487729229268
+"298"	"East Nimba"	"Goualougo"	"East Nimba_Goualougo"	0.00017732517637522
+"299"	"East Nimba"	"Grebo"	"East Nimba_Grebo"	0.00494080885822437
+"300"	"East Nimba"	"Issa-Ugalla"	"East Nimba_Issa-Ugalla"	0.000530664211208551
+"301"	"East Nimba"	"Kabogo"	"East Nimba_Kabogo"	4.07794770485174e-05
+"302"	"East Nimba"	"Kayan"	"East Nimba_Kayan"	0.00325838762232058
+"303"	"East Nimba"	"Korup"	"East Nimba_Korup"	0.000175252453270411
+"304"	"East Nimba"	"La Belgique"	"East Nimba_La Belgique"	2.55394292302416e-05
+"305"	"East Nimba"	"Loango"	"East Nimba_Loango"	0.000297942721301431
+"306"	"East Nimba"	"Lope"	"East Nimba_Lope"	0.000104072196369367
+"307"	"East Nimba"	"Mbe"	"East Nimba_Mbe"	0.000195807817785035
+"308"	"East Nimba"	"Mt. Cameroon"	"East Nimba_Mt. Cameroon"	2.79332860019321e-05
+"309"	"East Nimba"	"Mt. Sangbe"	"East Nimba_Mt. Sangbe"	0.00130727977486327
+"310"	"East Nimba"	"Mt. Cristal"	"East Nimba_Mt. Cristal"	0.000274396013372863
+"311"	"East Nimba"	"Ngogo"	"East Nimba_Ngogo"	0.000733512729589484
+"312"	"East Nimba"	"Nyungwe"	"East Nimba_Nyungwe"	0.000267892880667904
+"313"	"East Nimba"	"Outamba-Kilimi"	"East Nimba_Outamba-Kilimi"	0.000893667512772043
+"314"	"East Nimba"	"Rubi-Tele"	"East Nimba_Rubi-Tele"	8.66809850812393e-05
+"315"	"East Nimba"	"Sangaredi"	"East Nimba_Sangaredi"	0.00171837990973228
+"316"	"East Nimba"	"Sapo"	"East Nimba_Sapo"	0.00316204704253132
+"317"	"East Nimba"	"Sobeya"	"East Nimba_Sobeya"	0.00280870256638107
+"318"	"East Nimba"	"Bakoun-Sobory"	"Bakoun-Sobory_East Nimba"	0.00354559369299478
+"319"	"East Nimba"	"Tai"	"East Nimba_Tai"	0.00332916400176015
+"320"	"Gashaka"	"Gishwati"	"Gashaka_Gishwati"	0.00140717670613617
+"321"	"Gashaka"	"Goualougo"	"Gashaka_Goualougo"	0.00384593089128842
+"322"	"Gashaka"	"Grebo"	"Gashaka_Grebo"	0.00269561195715835
+"323"	"Gashaka"	"Issa-Ugalla"	"Gashaka_Issa-Ugalla"	0.00307592648702866
+"324"	"Gashaka"	"Kabogo"	"Gashaka_Kabogo"	0.000245671594816216
+"325"	"Gashaka"	"Kayan"	"Gashaka_Kayan"	0.0022823919467602
+"326"	"Gashaka"	"Korup"	"Gashaka_Korup"	0.00851005537436973
+"327"	"Gashaka"	"La Belgique"	"Gashaka_La Belgique"	0.000736618701363109
+"328"	"Gashaka"	"Loango"	"Gashaka_Loango"	0.002974481198192
+"329"	"Gashaka"	"Lope"	"Gashaka_Lope"	0.00144204292597831
+"330"	"Gashaka"	"Mbe"	"Gashaka_Mbe"	0.00839400752370472
+"331"	"Gashaka"	"Mt. Cameroon"	"Gashaka_Mt. Cameroon"	0.00375508646703132
+"332"	"Gashaka"	"Mt. Sangbe"	"Gashaka_Mt. Sangbe"	0.000252662510828393
+"333"	"Gashaka"	"Mt. Cristal"	"Gashaka_Mt. Cristal"	0.00380661913028146
+"334"	"Gashaka"	"Ngogo"	"Gashaka_Ngogo"	0.00432293797006603
+"335"	"Gashaka"	"Nyungwe"	"Gashaka_Nyungwe"	0.00175320678507803
+"336"	"Gashaka"	"Outamba-Kilimi"	"Gashaka_Outamba-Kilimi"	0.00012015465620749
+"337"	"Gashaka"	"Rubi-Tele"	"Gashaka_Rubi-Tele"	0.000567915045898445
+"338"	"Gashaka"	"Sangaredi"	"Gashaka_Sangaredi"	0.00031526416289984
+"339"	"Gashaka"	"Sapo"	"Gashaka_Sapo"	0.0015323594570113
+"340"	"Gashaka"	"Sobeya"	"Gashaka_Sobeya"	0.00165163656459595
+"341"	"Gashaka"	"Bakoun-Sobory"	"Bakoun-Sobory_Gashaka"	0.00204979475933717
+"342"	"Gashaka"	"Tai"	"Gashaka_Tai"	0.000900302266791318
+"343"	"Gishwati"	"Goualougo"	"Gishwati_Goualougo"	0.00161809906608346
+"344"	"Gishwati"	"Grebo"	"Gishwati_Grebo"	0.000596986738291086
+"345"	"Gishwati"	"Issa-Ugalla"	"Gishwati_Issa-Ugalla"	0.0061464143468097
+"346"	"Gishwati"	"Kabogo"	"Gishwati_Kabogo"	0.00121856062622238
+"347"	"Gishwati"	"Kayan"	"Gishwati_Kayan"	0.000544536587822525
+"348"	"Gishwati"	"Korup"	"Gishwati_Korup"	0.000490052670100556
+"349"	"Gishwati"	"La Belgique"	"Gishwati_La Belgique"	0.000224963397847161
+"350"	"Gishwati"	"Loango"	"Gishwati_Loango"	0.00186459325861624
+"351"	"Gishwati"	"Lope"	"Gishwati_Lope"	0.000994216337651164
+"352"	"Gishwati"	"Mbe"	"Gishwati_Mbe"	0.000491918630127751
+"353"	"Gishwati"	"Mt. Cameroon"	"Gishwati_Mt. Cameroon"	0.000103576532583548
+"354"	"Gishwati"	"Mt. Sangbe"	"Gishwati_Mt. Sangbe"	0.000122207167716054
+"355"	"Gishwati"	"Mt. Cristal"	"Gishwati_Mt. Cristal"	0.0023472795954939
+"356"	"Gishwati"	"Ngogo"	"Gishwati_Ngogo"	0.00818194686924928
+"357"	"Gishwati"	"Nyungwe"	"Gishwati_Nyungwe"	0.0088557426222289
+"358"	"Gishwati"	"Outamba-Kilimi"	"Gishwati_Outamba-Kilimi"	4.83064820858095e-05
+"359"	"Gishwati"	"Rubi-Tele"	"Gishwati_Rubi-Tele"	0.0027097167746665
+"360"	"Gishwati"	"Sangaredi"	"Gishwati_Sangaredi"	0.000147855878538508
+"361"	"Gishwati"	"Sapo"	"Gishwati_Sapo"	0.000369602310014438
+"362"	"Gishwati"	"Sobeya"	"Gishwati_Sobeya"	0.000414089119545637
+"363"	"Gishwati"	"Bakoun-Sobory"	"Bakoun-Sobory_Gishwati"	0.000573907058532225
+"364"	"Gishwati"	"Tai"	"Gishwati_Tai"	0.00025333167949443
+"365"	"Goualougo"	"Grebo"	"Goualougo_Grebo"	0.000393080104034498
+"366"	"Goualougo"	"Issa-Ugalla"	"Goualougo_Issa-Ugalla"	0.00187674594803068
+"367"	"Goualougo"	"Kabogo"	"Goualougo_Kabogo"	0.000458344016681907
+"368"	"Goualougo"	"Kayan"	"Goualougo_Kayan"	0.00037619655795956
+"369"	"Goualougo"	"Korup"	"Goualougo_Korup"	0.000893301825811442
+"370"	"Goualougo"	"La Belgique"	"Goualougo_La Belgique"	0.00258607365867965
+"371"	"Goualougo"	"Loango"	"Goualougo_Loango"	0.0057607472487994
+"372"	"Goualougo"	"Lope"	"Goualougo_Lope"	0.00382192329317953
+"373"	"Goualougo"	"Mbe"	"Goualougo_Mbe"	0.000862571986706244
+"374"	"Goualougo"	"Mt. Cameroon"	"Goualougo_Mt. Cameroon"	0.000341300506359488
+"375"	"Goualougo"	"Mt. Sangbe"	"Goualougo_Mt. Sangbe"	9.69633425288679e-05
+"376"	"Goualougo"	"Mt. Cristal"	"Goualougo_Mt. Cristal"	0.010284423473777
+"377"	"Goualougo"	"Ngogo"	"Goualougo_Ngogo"	0.00282478140067871
+"378"	"Goualougo"	"Nyungwe"	"Goualougo_Nyungwe"	0.00206800137163356
+"379"	"Goualougo"	"Outamba-Kilimi"	"Goualougo_Outamba-Kilimi"	5.80869389366433e-05
+"380"	"Goualougo"	"Rubi-Tele"	"Goualougo_Rubi-Tele"	0.000929861421690546
+"381"	"Goualougo"	"Sangaredi"	"Goualougo_Sangaredi"	0.000104888436844447
+"382"	"Goualougo"	"Sapo"	"Goualougo_Sapo"	0.000266757202444466
+"383"	"Goualougo"	"Sobeya"	"Goualougo_Sobeya"	0.000262782689269496
+"384"	"Goualougo"	"Bakoun-Sobory"	"Bakoun-Sobory_Goualougo"	0.000367780335027863
+"385"	"Goualougo"	"Tai"	"Goualougo_Tai"	0.000178348681169545
+"386"	"Grebo"	"Issa-Ugalla"	"Grebo_Issa-Ugalla"	0.00233762978127807
+"387"	"Grebo"	"Kabogo"	"Grebo_Kabogo"	8.15052202961583e-05
+"388"	"Grebo"	"Kayan"	"Grebo_Kayan"	0.00646495019733133
+"389"	"Grebo"	"Korup"	"Grebo_Korup"	0.000664788542459022
+"390"	"Grebo"	"La Belgique"	"Grebo_La Belgique"	3.40372562081524e-05
+"391"	"Grebo"	"Loango"	"Grebo_Loango"	0.00121877224180609
+"392"	"Grebo"	"Lope"	"Grebo_Lope"	0.000237653931315892
+"393"	"Grebo"	"Mbe"	"Grebo_Mbe"	0.000473976982164383
+"394"	"Grebo"	"Mt. Cameroon"	"Grebo_Mt. Cameroon"	6.63128430526245e-05
+"395"	"Grebo"	"Mt. Sangbe"	"Grebo_Mt. Sangbe"	0.00194642347340012
+"396"	"Grebo"	"Mt. Cristal"	"Grebo_Mt. Cristal"	0.000619132018884576
+"397"	"Grebo"	"Ngogo"	"Grebo_Ngogo"	0.00318740391374818
+"398"	"Grebo"	"Nyungwe"	"Grebo_Nyungwe"	0.000651036206419364
+"399"	"Grebo"	"Outamba-Kilimi"	"Grebo_Outamba-Kilimi"	0.00134283039043973
+"400"	"Grebo"	"Rubi-Tele"	"Grebo_Rubi-Tele"	0.000166835998074969
+"401"	"Grebo"	"Sangaredi"	"Grebo_Sangaredi"	0.00244654442728619
+"402"	"Grebo"	"Sapo"	"Grebo_Sapo"	0.00740745387461591
+"403"	"Grebo"	"Sobeya"	"Grebo_Sobeya"	0.00557955363570914
+"404"	"Grebo"	"Bakoun-Sobory"	"Bakoun-Sobory_Grebo"	0.00696107292000614
+"405"	"Grebo"	"Tai"	"Grebo_Tai"	0.00550335879845952
+"406"	"Issa-Ugalla"	"Kabogo"	"Issa-Ugalla_Kabogo"	0.00136949866162631
+"407"	"Issa-Ugalla"	"Kayan"	"Issa-Ugalla_Kayan"	0.00193583839667032
+"408"	"Issa-Ugalla"	"Korup"	"Issa-Ugalla_Korup"	0.000932425000368756
+"409"	"Issa-Ugalla"	"La Belgique"	"Issa-Ugalla_La Belgique"	0.000284445913946602
+"410"	"Issa-Ugalla"	"Loango"	"Issa-Ugalla_Loango"	0.00281354490911095
+"411"	"Issa-Ugalla"	"Lope"	"Issa-Ugalla_Lope"	0.00117952672550864
+"412"	"Issa-Ugalla"	"Mbe"	"Issa-Ugalla_Mbe"	0.000690482896623045
+"413"	"Issa-Ugalla"	"Mt. Cameroon"	"Issa-Ugalla_Mt. Cameroon"	0.000104704123597401
+"414"	"Issa-Ugalla"	"Mt. Sangbe"	"Issa-Ugalla_Mt. Sangbe"	0.000184639676732005
+"415"	"Issa-Ugalla"	"Mt. Cristal"	"Issa-Ugalla_Mt. Cristal"	0.00263375763763482
+"416"	"Issa-Ugalla"	"Ngogo"	"Issa-Ugalla_Ngogo"	0.010152559686721
+"417"	"Issa-Ugalla"	"Nyungwe"	"Issa-Ugalla_Nyungwe"	0.00861376735175661
+"418"	"Issa-Ugalla"	"Outamba-Kilimi"	"Issa-Ugalla_Outamba-Kilimi"	0.0001158026679648
+"419"	"Issa-Ugalla"	"Rubi-Tele"	"Issa-Ugalla_Rubi-Tele"	0.00219247844134131
+"420"	"Issa-Ugalla"	"Sangaredi"	"Issa-Ugalla_Sangaredi"	0.000286807891434778
+"421"	"Issa-Ugalla"	"Sapo"	"Issa-Ugalla_Sapo"	0.00137755886527642
+"422"	"Issa-Ugalla"	"Sobeya"	"Issa-Ugalla_Sobeya"	0.0014263034654357
+"423"	"Issa-Ugalla"	"Bakoun-Sobory"	"Bakoun-Sobory_Issa-Ugalla"	0.00186592893171912
+"424"	"Issa-Ugalla"	"Tai"	"Issa-Ugalla_Tai"	0.00075863470900491
+"425"	"Kabogo"	"Kayan"	"Kabogo_Kayan"	8.03604676300114e-05
+"426"	"Kabogo"	"Korup"	"Kabogo_Korup"	8.40503166084561e-05
+"427"	"Kabogo"	"La Belgique"	"Kabogo_La Belgique"	8.44287753734054e-05
+"428"	"Kabogo"	"Loango"	"Kabogo_Loango"	0.000505495277699384
+"429"	"Kabogo"	"Lope"	"Kabogo_Lope"	0.00028006580407917
+"430"	"Kabogo"	"Mbe"	"Kabogo_Mbe"	9.74874314895739e-05
+"431"	"Kabogo"	"Mt. Cameroon"	"Kabogo_Mt. Cameroon"	3.68427710184938e-05
+"432"	"Kabogo"	"Mt. Sangbe"	"Kabogo_Mt. Sangbe"	2.96093164575414e-05
+"433"	"Kabogo"	"Mt. Cristal"	"Kabogo_Mt. Cristal"	0.000600229219611414
+"434"	"Kabogo"	"Ngogo"	"Kabogo_Ngogo"	0.00155923979704989
+"435"	"Kabogo"	"Nyungwe"	"Kabogo_Nyungwe"	0.00169632594823828
+"436"	"Kabogo"	"Outamba-Kilimi"	"Kabogo_Outamba-Kilimi"	1.37519897410157e-05
+"437"	"Kabogo"	"Rubi-Tele"	"Kabogo_Rubi-Tele"	0.000542993046259578
+"438"	"Kabogo"	"Sangaredi"	"Kabogo_Sangaredi"	2.6103408083658e-05
+"439"	"Kabogo"	"Sapo"	"Kabogo_Sapo"	5.20816232256867e-05
+"440"	"Kabogo"	"Sobeya"	"Kabogo_Sobeya"	4.98619729929423e-05
+"441"	"Kabogo"	"Bakoun-Sobory"	"Bakoun-Sobory_Kabogo"	8.48935830638434e-05
+"442"	"Kabogo"	"Tai"	"Kabogo_Tai"	4.07758280891088e-05
+"443"	"Kayan"	"Korup"	"Kayan_Korup"	0.000578404341509309
+"444"	"Kayan"	"La Belgique"	"Kayan_La Belgique"	4.4980482117827e-05
+"445"	"Kayan"	"Loango"	"Kayan_Loango"	0.0010687753807906
+"446"	"Kayan"	"Lope"	"Kayan_Lope"	0.000246102667243735
+"447"	"Kayan"	"Mbe"	"Kayan_Mbe"	0.000410859294877184
+"448"	"Kayan"	"Mt. Cameroon"	"Kayan_Mt. Cameroon"	6.39878632474655e-05
+"449"	"Kayan"	"Mt. Sangbe"	"Kayan_Mt. Sangbe"	0.00120108394643081
+"450"	"Kayan"	"Mt. Cristal"	"Kayan_Mt. Cristal"	0.000583364460094094
+"451"	"Kayan"	"Ngogo"	"Kayan_Ngogo"	0.00267909119551315
+"452"	"Kayan"	"Nyungwe"	"Kayan_Nyungwe"	0.000573417937812982
+"453"	"Kayan"	"Outamba-Kilimi"	"Kayan_Outamba-Kilimi"	0.00137143616924316
+"454"	"Kayan"	"Rubi-Tele"	"Kayan_Rubi-Tele"	0.00017107633746946
+"455"	"Kayan"	"Sangaredi"	"Kayan_Sangaredi"	0.00297897325565093
+"456"	"Kayan"	"Sapo"	"Kayan_Sapo"	0.00417006067919288
+"457"	"Kayan"	"Sobeya"	"Kayan_Sobeya"	0.00532088617930434
+"458"	"Kayan"	"Bakoun-Sobory"	"Bakoun-Sobory_Kayan"	0.00728910780234288
+"459"	"Kayan"	"Tai"	"Kayan_Tai"	0.00356929214451914
+"460"	"Korup"	"La Belgique"	"Korup_La Belgique"	0.000171683226183518
+"461"	"Korup"	"Loango"	"Korup_Loango"	0.000837147356960901
+"462"	"Korup"	"Lope"	"Korup_Lope"	0.000405001987707124
+"463"	"Korup"	"Mbe"	"Korup_Mbe"	0.00539249428237003
+"464"	"Korup"	"Mt. Cameroon"	"Korup_Mt. Cameroon"	0.00309826594983582
+"465"	"Korup"	"Mt. Sangbe"	"Korup_Mt. Sangbe"	8.42232748354714e-05
+"466"	"Korup"	"Mt. Cristal"	"Korup_Mt. Cristal"	0.00101602188354826
+"467"	"Korup"	"Ngogo"	"Korup_Ngogo"	0.00127946454145676
+"468"	"Korup"	"Nyungwe"	"Korup_Nyungwe"	0.000594234134581893
+"469"	"Korup"	"Outamba-Kilimi"	"Korup_Outamba-Kilimi"	3.8750636425383e-05
+"470"	"Korup"	"Rubi-Tele"	"Korup_Rubi-Tele"	0.000228667373782051
+"471"	"Korup"	"Sangaredi"	"Korup_Sangaredi"	9.4358326274129e-05
+"472"	"Korup"	"Sapo"	"Korup_Sapo"	0.00045116792406886
+"473"	"Korup"	"Sobeya"	"Korup_Sobeya"	0.000426310085715763
+"474"	"Korup"	"Bakoun-Sobory"	"Bakoun-Sobory_Korup"	0.000555255860214601
+"475"	"Korup"	"Tai"	"Korup_Tai"	0.000249063373964435
+"476"	"La Belgique"	"Loango"	"La Belgique_Loango"	0.00124560571226995
+"477"	"La Belgique"	"Lope"	"La Belgique_Lope"	0.000875635384450277
+"478"	"La Belgique"	"Mbe"	"La Belgique_Mbe"	0.00018004493824337
+"479"	"La Belgique"	"Mt. Cameroon"	"La Belgique_Mt. Cameroon"	0.000100739791701108
+"480"	"La Belgique"	"Mt. Sangbe"	"La Belgique_Mt. Sangbe"	1.83041788440301e-05
+"481"	"La Belgique"	"Mt. Cristal"	"La Belgique_Mt. Cristal"	0.00250363872699881
+"482"	"La Belgique"	"Ngogo"	"La Belgique_Ngogo"	0.000381661296262758
+"483"	"La Belgique"	"Nyungwe"	"La Belgique_Nyungwe"	0.000302737402658983
+"484"	"La Belgique"	"Outamba-Kilimi"	"La Belgique_Outamba-Kilimi"	1.83836145617837e-05
+"485"	"La Belgique"	"Rubi-Tele"	"La Belgique_Rubi-Tele"	0.000146857434474048
+"486"	"La Belgique"	"Sangaredi"	"La Belgique_Sangaredi"	1.33925038503449e-05
+"487"	"La Belgique"	"Sapo"	"La Belgique_Sapo"	3.64761597898973e-05
+"488"	"La Belgique"	"Sobeya"	"La Belgique_Sobeya"	2.55331566276779e-05
+"489"	"La Belgique"	"Bakoun-Sobory"	"Bakoun-Sobory_La Belgique"	4.61967324321729e-05
+"490"	"La Belgique"	"Tai"	"La Belgique_Tai"	1.70264725162329e-05
+"491"	"Loango"	"Lope"	"Loango_Lope"	0.0105444361273201
+"492"	"Loango"	"Mbe"	"Loango_Mbe"	0.000713961049575473
+"493"	"Loango"	"Mt. Cameroon"	"Loango_Mt. Cameroon"	0.00019790223629527
+"494"	"Loango"	"Mt. Sangbe"	"Loango_Mt. Sangbe"	0.000174460846837206
+"495"	"Loango"	"Mt. Cristal"	"Loango_Mt. Cristal"	0.007982840210517
+"496"	"Loango"	"Ngogo"	"Loango_Ngogo"	0.00385540196893018
+"497"	"Loango"	"Nyungwe"	"Loango_Nyungwe"	0.00234376891091047
+"498"	"Loango"	"Outamba-Kilimi"	"Loango_Outamba-Kilimi"	9.34708967082129e-05
+"499"	"Loango"	"Rubi-Tele"	"Loango_Rubi-Tele"	0.000945584452578351
+"500"	"Loango"	"Sangaredi"	"Loango_Sangaredi"	0.000198773104730166
+"501"	"Loango"	"Sapo"	"Loango_Sapo"	0.000749171498279953
+"502"	"Loango"	"Sobeya"	"Loango_Sobeya"	0.000792942183577684
+"503"	"Loango"	"Bakoun-Sobory"	"Bakoun-Sobory_Loango"	0.00104472471766183
+"504"	"Loango"	"Tai"	"Loango_Tai"	0.000456665207582747
+"505"	"Lope"	"Mbe"	"Lope_Mbe"	0.000350870104697513
+"506"	"Lope"	"Mt. Cameroon"	"Lope_Mt. Cameroon"	0.000119126870116674
+"507"	"Lope"	"Mt. Sangbe"	"Lope_Mt. Sangbe"	5.88900405163479e-05
+"508"	"Lope"	"Mt. Cristal"	"Lope_Mt. Cristal"	0.00518360870922727
+"509"	"Lope"	"Ngogo"	"Lope_Ngogo"	0.00176859409493151
+"510"	"Lope"	"Nyungwe"	"Lope_Nyungwe"	0.00140139587522481
+"511"	"Lope"	"Outamba-Kilimi"	"Lope_Outamba-Kilimi"	5.29342880230232e-05
+"512"	"Lope"	"Rubi-Tele"	"Lope_Rubi-Tele"	0.000567675052889649
+"513"	"Lope"	"Sangaredi"	"Lope_Sangaredi"	7.5652234138337e-05
+"514"	"Lope"	"Sapo"	"Lope_Sapo"	0.000159189196359874
+"515"	"Lope"	"Sobeya"	"Lope_Sobeya"	0.000154037863569195
+"516"	"Lope"	"Bakoun-Sobory"	"Bakoun-Sobory_Lope"	0.000200490512237347
+"517"	"Lope"	"Tai"	"Lope_Tai"	0.000120005437414509
+"518"	"Mbe"	"Mt. Cameroon"	"Mbe_Mt. Cameroon"	0.00250524156605537
+"519"	"Mbe"	"Mt. Sangbe"	"Mbe_Mt. Sangbe"	7.9770091958962e-05
+"520"	"Mbe"	"Mt. Cristal"	"Mbe_Mt. Cristal"	0.000985746692588154
+"521"	"Mbe"	"Ngogo"	"Mbe_Ngogo"	0.00112159897165757
+"522"	"Mbe"	"Nyungwe"	"Mbe_Nyungwe"	0.000622041749421375
+"523"	"Mbe"	"Outamba-Kilimi"	"Mbe_Outamba-Kilimi"	5.26380244197463e-05
+"524"	"Mbe"	"Rubi-Tele"	"Mbe_Rubi-Tele"	0.000221766072147895
+"525"	"Mbe"	"Sangaredi"	"Mbe_Sangaredi"	0.000116328872297337
+"526"	"Mbe"	"Sapo"	"Mbe_Sapo"	0.000274450258256641
+"527"	"Mbe"	"Sobeya"	"Mbe_Sobeya"	0.000308435662741919
+"528"	"Mbe"	"Bakoun-Sobory"	"Bakoun-Sobory_Mbe"	0.000416129428862359
+"529"	"Mbe"	"Tai"	"Mbe_Tai"	0.00022104472050474
+"530"	"Mt. Cameroon"	"Mt. Sangbe"	"Mt. Cameroon_Mt. Sangbe"	1.51847871793674e-05
+"531"	"Mt. Cameroon"	"Mt. Cristal"	"Mt. Cameroon_Mt. Cristal"	0.000346818118337135
+"532"	"Mt. Cameroon"	"Ngogo"	"Mt. Cameroon_Ngogo"	0.000186119227977442
+"533"	"Mt. Cameroon"	"Nyungwe"	"Mt. Cameroon_Nyungwe"	0.000139631326753595
+"534"	"Mt. Cameroon"	"Outamba-Kilimi"	"Mt. Cameroon_Outamba-Kilimi"	1.17375300480769e-05
+"535"	"Mt. Cameroon"	"Rubi-Tele"	"Mt. Cameroon_Rubi-Tele"	7.49967774822176e-05
+"536"	"Mt. Cameroon"	"Sangaredi"	"Mt. Cameroon_Sangaredi"	2.09721280418324e-05
+"537"	"Mt. Cameroon"	"Sapo"	"Mt. Cameroon_Sapo"	3.3744590683933e-05
+"538"	"Mt. Cameroon"	"Sobeya"	"Mt. Cameroon_Sobeya"	4.42156607215996e-05
+"539"	"Mt. Cameroon"	"Bakoun-Sobory"	"Bakoun-Sobory_Mt. Cameroon"	3.2575639471437e-05
+"540"	"Mt. Cameroon"	"Tai"	"Mt. Cameroon_Tai"	2.79325382646678e-05
+"541"	"Mt. Sangbe"	"Mt. Cristal"	"Mt. Cristal_Mt. Sangbe"	0.000142376432662854
+"542"	"Mt. Sangbe"	"Ngogo"	"Mt. Sangbe_Ngogo"	0.000299136323423647
+"543"	"Mt. Sangbe"	"Nyungwe"	"Mt. Sangbe_Nyungwe"	0.000113637932554294
+"544"	"Mt. Sangbe"	"Outamba-Kilimi"	"Mt. Sangbe_Outamba-Kilimi"	0.000245135623713578
+"545"	"Mt. Sangbe"	"Rubi-Tele"	"Mt. Sangbe_Rubi-Tele"	3.98654057705714e-05
+"546"	"Mt. Sangbe"	"Sangaredi"	"Mt. Sangbe_Sangaredi"	0.00103237656494544
+"547"	"Mt. Sangbe"	"Sapo"	"Mt. Sangbe_Sapo"	0.00132675545667984
+"548"	"Mt. Sangbe"	"Sobeya"	"Mt. Sangbe_Sobeya"	0.0010879751125693
+"549"	"Mt. Sangbe"	"Bakoun-Sobory"	"Bakoun-Sobory_Mt. Sangbe"	0.00136862911105948
+"550"	"Mt. Sangbe"	"Tai"	"Mt. Sangbe_Tai"	0.00129870405688387
+"551"	"Mt. Cristal"	"Ngogo"	"Mt. Cristal_Ngogo"	0.00393288409053497
+"552"	"Mt. Cristal"	"Nyungwe"	"Mt. Cristal_Nyungwe"	0.00313606793412576
+"553"	"Mt. Cristal"	"Outamba-Kilimi"	"Mt. Cristal_Outamba-Kilimi"	9.01586470192371e-05
+"554"	"Mt. Cristal"	"Rubi-Tele"	"Mt. Cristal_Rubi-Tele"	0.00129586766954625
+"555"	"Mt. Cristal"	"Sangaredi"	"Mt. Cristal_Sangaredi"	0.000189059077264959
+"556"	"Mt. Cristal"	"Sapo"	"Mt. Cristal_Sapo"	0.000448375400466436
+"557"	"Mt. Cristal"	"Sobeya"	"Mt. Cristal_Sobeya"	0.00040577290803567
+"558"	"Mt. Cristal"	"Bakoun-Sobory"	"Bakoun-Sobory_Mt. Cristal"	0.000582296914770617
+"559"	"Mt. Cristal"	"Tai"	"Mt. Cristal_Tai"	0.000268041843959703
+"560"	"Ngogo"	"Nyungwe"	"Ngogo_Nyungwe"	0.0101485726736482
+"561"	"Ngogo"	"Outamba-Kilimi"	"Ngogo_Outamba-Kilimi"	0.000140439651152195
+"562"	"Ngogo"	"Rubi-Tele"	"Ngogo_Rubi-Tele"	0.00458170438975801
+"563"	"Ngogo"	"Sangaredi"	"Ngogo_Sangaredi"	0.000383622683904394
+"564"	"Ngogo"	"Sapo"	"Ngogo_Sapo"	0.00183266724133427
+"565"	"Ngogo"	"Sobeya"	"Ngogo_Sobeya"	0.00185265386651268
+"566"	"Ngogo"	"Bakoun-Sobory"	"Bakoun-Sobory_Ngogo"	0.00248025551744683
+"567"	"Ngogo"	"Tai"	"Ngogo_Tai"	0.000975786466092991
+"568"	"Nyungwe"	"Outamba-Kilimi"	"Nyungwe_Outamba-Kilimi"	6.75994677883171e-05
+"569"	"Nyungwe"	"Rubi-Tele"	"Nyungwe_Rubi-Tele"	0.00304663447446625
+"570"	"Nyungwe"	"Sangaredi"	"Nyungwe_Sangaredi"	0.000154142419149134
+"571"	"Nyungwe"	"Sapo"	"Nyungwe_Sapo"	0.000423846617882341
+"572"	"Nyungwe"	"Sobeya"	"Nyungwe_Sobeya"	0.000456854071357455
+"573"	"Nyungwe"	"Bakoun-Sobory"	"Bakoun-Sobory_Nyungwe"	0.00055662127739866
+"574"	"Nyungwe"	"Tai"	"Nyungwe_Tai"	0.000261516712913464
+"575"	"Outamba-Kilimi"	"Rubi-Tele"	"Outamba-Kilimi_Rubi-Tele"	2.60664999858806e-05
+"576"	"Outamba-Kilimi"	"Sangaredi"	"Outamba-Kilimi_Sangaredi"	0.000750799203163253
+"577"	"Outamba-Kilimi"	"Sapo"	"Outamba-Kilimi_Sapo"	0.000918046148978727
+"578"	"Outamba-Kilimi"	"Sobeya"	"Outamba-Kilimi_Sobeya"	0.0012130593894554
+"579"	"Outamba-Kilimi"	"Bakoun-Sobory"	"Bakoun-Sobory_Outamba-Kilimi"	0.00147316776099944
+"580"	"Outamba-Kilimi"	"Tai"	"Outamba-Kilimi_Tai"	0.00082824708799267
+"581"	"Rubi-Tele"	"Sangaredi"	"Rubi-Tele_Sangaredi"	5.1506622356664e-05
+"582"	"Rubi-Tele"	"Sapo"	"Rubi-Tele_Sapo"	0.000116586019090158
+"583"	"Rubi-Tele"	"Sobeya"	"Rubi-Tele_Sobeya"	0.000135969063290922
+"584"	"Rubi-Tele"	"Bakoun-Sobory"	"Bakoun-Sobory_Rubi-Tele"	0.000184959479975196
+"585"	"Rubi-Tele"	"Tai"	"Rubi-Tele_Tai"	8.66738431182039e-05
+"586"	"Sangaredi"	"Sapo"	"Sangaredi_Sapo"	0.00169483838919691
+"587"	"Sangaredi"	"Sobeya"	"Sangaredi_Sobeya"	0.00228925937340364
+"588"	"Sangaredi"	"Bakoun-Sobory"	"Bakoun-Sobory_Sangaredi"	0.00313820653130669
+"589"	"Sangaredi"	"Tai"	"Sangaredi_Tai"	0.00168560020349638
+"590"	"Sapo"	"Sobeya"	"Sapo_Sobeya"	0.00348432786005682
+"591"	"Sapo"	"Bakoun-Sobory"	"Bakoun-Sobory_Sapo"	0.00448102232145191
+"592"	"Sapo"	"Tai"	"Sapo_Tai"	0.00397461947028838
+"593"	"Sobeya"	"Bakoun-Sobory"	"Bakoun-Sobory_Sobeya"	0.00565469802698048
+"594"	"Sobeya"	"Tai"	"Sobeya_Tai"	0.00308604070424708
+"595"	"Bakoun-Sobory"	"Tai"	"Bakoun-Sobory_Tai"	0.00397022436481648

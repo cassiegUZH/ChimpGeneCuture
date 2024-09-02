@@ -5,7 +5,6 @@
   # This code describes the process to combine the extracted and adapted data
   # from Kalan et al. 2020 and Fontsere et al. 2022 into a dyadic format
 
-  rm(list=ls())
   library(dplyr)
 
 
@@ -75,14 +74,16 @@
   # Geographic coordinates and subspecies extracted from Fontsere et al. 2022 Table S1
   # and subset to the populations in our study
   
-  d.genetic <- read.delim("Data/d.genetic_data.txt")
-  d.genetic$dyad_ID <- paste0(pmin(d.genetic$site1, d.genetic$site2), "_",
-                              pmax(d.genetic$site1, d.genetic$site2))
+  d.ibd <- read.delim("Data/d.ibd.txt")
+  d.nepra <- read.delim("Data/d.nepra.txt")
   d.geographic <- read.delim("Data/d.geographic_data.txt")
   
   # merge with dyadic data
-  m.dyads <- merge(m.dyads, d.genetic,
+  m.dyads <- merge(m.dyads, d.ibd[,c("dyad_ID", "ibd_binary")],
                    by = "dyad_ID", all.x = T)
+  m.dyads <- merge(m.dyads, d.nepra[,c("dyad_ID", "nepra_proportion")],
+                   by = "dyad_ID", all.x = T)
+  
   m.dyads <- merge(m.dyads, d.geographic,
                    by.x = "site.x", by.y = "site", all.x = T)
   m.dyads <- merge(m.dyads, d.geographic,
