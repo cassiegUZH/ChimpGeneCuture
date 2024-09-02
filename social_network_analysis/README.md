@@ -18,6 +18,4 @@ These datasets can be found in the `Data` folder.
 
 
 ### Network backboning and projection
-- Apart from the standard `networkx` library, we have used the code from [Extracting the Multiscale Backbone of Complex Weighted Networks](1) to perform network backboning and projection. 
-
-[1]: https://ieeexplore.ieee.org/document/9073533 "The Impact of Projection and Backboning on Network Topologies"
+- Apart from the standard `networkx` library, we have used the code from [The Impact of Projection and Backboning on Network Topologies](https://ieeexplore.ieee.org/document/9073533) to perform network backboning and projection. 
