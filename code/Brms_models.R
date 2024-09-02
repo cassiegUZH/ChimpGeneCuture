@@ -135,14 +135,5 @@ library(dplyr)
   
   # repeat for each model formula
   
-  
-# ROBUSTNESS OF IBD DATA
-  
-  
-  
-  
-  
-  
-    
-  
+
 
