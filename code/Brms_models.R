@@ -129,7 +129,7 @@ library(dplyr)
   f_nepra_prop <- bf(shared ~ z.log.nepra + same_habitat + z.obstime + (1|dyad_ID) + (1|behavior))
   
   # model
-  m_complex_nepraprop_habitat_wide <- get_brms(formel = f_nepra_prop_obstime, dataset = d.complex, 
+  m_complex_nepraprop_habitat_wide <- get_brms(formel = f_nepra_prop, dataset = d.complex, 
                                                   priors = priors_wide, aD = 0.95)
   
   
