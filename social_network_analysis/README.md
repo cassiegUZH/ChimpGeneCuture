@@ -6,6 +6,7 @@ This folder contains all the necessary code and data required to perform social 
 ## Data
 - graphs of IBD and NePRA genetic relationships.
 - tool usage datasets
+These datasets can be found in the `Data` folder.
 
 ## Code
 - `main_fig3_diagrams.ipynb`: code to generate the diagrams in Fig. 3 of the paper.
