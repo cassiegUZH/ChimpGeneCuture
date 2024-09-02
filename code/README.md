@@ -11,7 +11,7 @@ The datasets can be found in the `data` folder.
 
 
 ## Code
-- `Get_nepra_proportions.R`: code to generate dyadic nearly-private rare allele similarity proportions (data see above).
+- `Get_nepra_proportions.R`: code to generate dyadic nearly-private rare allele similarity proportions (for data see above).
 - `Create_dyadic_data.R`: code to generate the m.dyads data file including all dyadic variables in the data folder.
 - `BRMS_models.R`: code to run Bayesian logistic regressions including models testing for robustness.
 - `Mantel_tests.R`: code to run Mantel tests.
