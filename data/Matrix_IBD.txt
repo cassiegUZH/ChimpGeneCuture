@@ -1,0 +1,36 @@
+"Bafing"	"Bateke"	"Bili-Uele"	"Boe"	"Budongo"	"Bwindi"	"Comoe"	"Conkouati"	"Dindefelo"	"Djouroutou"	"East Nimba"	"Gashaka"	"Gishwati"	"Goualougo"	"Grebo"	"Issa-Ugalla"	"Kabogo"	"Kayan"	"Korup"	"La Belgique"	"Loango"	"Lope"	"Mbe"	"Mt. Cameroon"	"Mt. Cristal"	"Mt. Sangbe"	"Ngogo"	"Nyungwe"	"Outamba-Kilimi"	"Rubi-Tele"	"Sangaredi"	"Sapo"	"Sobeya"	"Bakoun-Sobory"	"Tai"
+"Bafing"	0	0	0	1	0	0	1	0	1	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	NA	0	1	1	1	1	0
+"Bateke"	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	0	1	0	0	0	NA	0	0	0	0	0	0
+"Bili-Uele"	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	1	0	1	1	NA	0	0	0	0	0	0
+"Boe"	1	0	0	0	0	0	1	0	1	1	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	NA	0	1	1	1	1	1
+"Budongo"	0	0	1	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	1	1	NA	1	0	0	0	0	0
+"Bwindi"	0	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	1	1	NA	1	0	0	0	0	0
+"Comoe"	1	0	0	1	0	0	0	0	1	1	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	NA	0	1	1	1	1	1
+"Conkouati"	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	NA	0	0	0	0	0	0
+"Dindefelo"	1	0	0	1	0	0	1	0	0	1	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	NA	0	1	1	1	1	1
+"Djouroutou"	1	0	0	1	0	0	1	0	1	0	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	NA	0	1	1	1	1	1
+"East Nimba"	0	0	0	1	0	0	1	0	1	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	NA	0	1	1	1	1	1
+"Gashaka"	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	1	1	0	0	1	0	NA	0	0	0	0	0	0
+"Gishwati"	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	1	NA	0	0	0	0	0	0
+"Goualougo"	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	1	0	0	1	0	0	0	NA	0	0	0	0	0	0
+"Grebo"	1	0	0	1	0	0	1	0	1	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	NA	0	1	1	1	1	1
+"Issa-Ugalla"	0	0	1	0	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	NA	0	0	0	0	0	0
+"Kabogo"	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	NA	0	0	0	0	0	0
+"Kayan"	1	0	0	1	0	0	1	0	1	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	NA	0	1	1	1	1	1
+"Korup"	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1	0	NA	0	0	0	0	0	0
+"La Belgique"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	NA	0	0	0	0	0	0
+"Loango"	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	NA	0	0	0	0	0	0
+"Lope"	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	NA	0	0	0	0	0	0
+"Mbe"	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	NA	0	0	0	0	0	0
+"Mt. Cameroon"	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	NA	0	0	0	0	0	0
+"Mt. Cristal"	0	1	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	0	0	0	1	0	NA	0	0	0	0	0	0
+"Mt. Sangbe"	0	0	0	0	0	0	1	0	0	1	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	NA	0	1	0	0	0	0
+"Ngogo"	0	0	1	0	1	1	0	0	0	0	0	1	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	NA	1	0	0	0	0	0
+"Nyungwe"	0	0	1	0	1	1	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	NA	1	0	0	0	0	0
+"Outamba-Kilimi"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"Rubi-Tele"	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	NA	0	0	0	0	0	0
+"Sangaredi"	1	0	0	1	0	0	1	0	1	1	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	NA	0	0	1	1	1	1
+"Sapo"	1	0	0	1	0	0	1	0	1	1	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	NA	0	1	0	1	1	1
+"Sobeya"	1	0	0	1	0	0	1	0	1	1	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	NA	0	1	1	0	1	1
+"Bakoun-Sobory"	1	0	0	1	0	0	1	0	1	1	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	NA	0	1	1	1	0	1
+"Tai"	0	0	0	1	0	0	1	0	1	1	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	NA	0	1	1	1	1	0
