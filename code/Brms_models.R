@@ -1,5 +1,5 @@
 ################################################################################
-# Mantel correlation tests
+# BRMS models
 ################################################################################
 
 # Code for Bayesian regression models to test the effects of genetic data on sharing behaviors
