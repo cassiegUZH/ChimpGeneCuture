@@ -1,5 +1,5 @@
 ################################################################################
-# Mantel correlation tests
+# Create dyadic data file
 ################################################################################
 
   # This code describes the process to combine the extracted and adapted data
