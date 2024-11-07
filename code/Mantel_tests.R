@@ -7,7 +7,6 @@
 
 rm(list=ls())
 #library(dplyr)
-setwd("C:/Users/cassi/OneDrive - Universität Zürich UZH/PhD/Project 1 Genes and Culture in Chimpanzees/Sorted/Code/GitHub/Mantel_tests")
 '%!in%' <- function(x,y)!('%in%'(x,y))
 
 ################################################################################
