@@ -1,0 +1,596 @@
+site1;site2;neprasimilarity
+Bafing;Bakoun-Sobory;0.00247994
+Bafing;Bateke;1.39E-05
+Bafing;Bili-Uele;4.65E-05
+Bafing;Boe;0.002109912
+Bafing;Budongo;8.04E-05
+Bafing;Bwindi;7.29E-05
+Bafing;Comoe;0.001479461
+Bafing;Conkouati;0.00013175
+Bafing;Dindefelo;0.001671768
+Bafing;Djouroutou;0.000537076
+Bafing;East Nimba;0.001045039
+Bafing;Gashaka;0.000236461
+Bafing;Gishwati;0.000103898
+Bafing;Goualougo;7.19E-05
+Bafing;Grebo;0.001417593
+Bafing;Issa-Ugalla;0.000165871
+Bafing;Kabogo;2.18E-05
+Bafing;Kayan;0.002169722
+Bafing;Korup;6.56E-05
+Bafing;La Belgique;1.47E-05
+Bafing;Loango;0.000119003
+Bafing;Lope;3.67E-05
+Bafing;Mbe;8.90E-05
+Bafing;Mt. Cameroon;9.38E-06
+Bafing;Mt. Cristal;0.000128543
+Bafing;Mt. Sangbe;0.000402364
+Bafing;Ngogo;0.000233206
+Bafing;Nyungwe;0.000108169
+Bafing;Outamba-Kilimi;0.000445912
+Bafing;Rubi-Tele;4.02E-05
+Bafing;Sangaredi;0.001161407
+Bafing;Sapo;0.001010304
+Bafing;Sobeya;0.0015757
+Bafing;Tai;0.001010838
+Bateke;Bakoun-Sobory;3.80E-05
+Bili-Uele;Bakoun-Sobory;0.000174391
+Boe;Bakoun-Sobory;0.007546747
+Budongo;Bakoun-Sobory;0.000487298
+Bwindi;Bakoun-Sobory;0.000407682
+Comoe;Bakoun-Sobory;0.006922572
+Conkouati;Bakoun-Sobory;0.001166446
+Dindefelo;Bakoun-Sobory;0.004389554
+Djouroutou;Bakoun-Sobory;0.002066116
+East Nimba;Bakoun-Sobory;0.003545594
+Gashaka;Bakoun-Sobory;0.002049795
+Gishwati;Bakoun-Sobory;0.000573907
+Goualougo;Bakoun-Sobory;0.00036778
+Grebo;Bakoun-Sobory;0.006961073
+Issa-Ugalla;Bakoun-Sobory;0.001865929
+Kabogo;Bakoun-Sobory;8.49E-05
+Kayan;Bakoun-Sobory;0.007289108
+Korup;Bakoun-Sobory;0.000555256
+La Belgique;Bakoun-Sobory;4.62E-05
+Loango;Bakoun-Sobory;0.001044725
+Lope;Bakoun-Sobory;0.000200491
+Mbe;Bakoun-Sobory;0.000416129
+Mt. Cameroon;Bakoun-Sobory;3.26E-05
+Mt. Cristal;Bakoun-Sobory;0.000582297
+Mt. Sangbe;Bakoun-Sobory;0.001368629
+Ngogo;Bakoun-Sobory;0.002480256
+Nyungwe;Bakoun-Sobory;0.000556621
+Outamba-Kilimi;Bakoun-Sobory;0.001473168
+Rubi-Tele;Bakoun-Sobory;0.000184959
+Sangaredi;Bakoun-Sobory;0.003138207
+Sapo;Bakoun-Sobory;0.004481022
+Sobeya;Bakoun-Sobory;0.005654698
+Bakoun-Sobory;Tai;0.003970224
+Bateke;Bili-Uele;8.47E-05
+Bateke;Boe;3.00E-05
+Bateke;Budongo;0.00013608
+Bateke;Bwindi;0.00015227
+Bateke;Comoe;4.96E-05
+Bateke;Conkouati;0.003078356
+Bateke;Dindefelo;1.73E-05
+Bateke;Djouroutou;9.24E-06
+Bateke;East Nimba;2.19E-05
+Bateke;Gashaka;0.00032848
+Bateke;Gishwati;0.00012915
+Bateke;Goualougo;0.000916499
+Bateke;Grebo;4.38E-05
+Bateke;Issa-Ugalla;0.000213236
+Bateke;Kabogo;6.70E-05
+Bateke;Kayan;5.99E-05
+Bateke;Korup;9.59E-05
+Bateke;La Belgique;0.000259505
+Bateke;Loango;0.002699102
+Bateke;Lope;0.001916644
+Bateke;Mbe;8.42E-05
+Bateke;Mt. Cameroon;3.82E-05
+Bateke;Mt. Cristal;0.00124888
+Bateke;Mt. Sangbe;9.26E-06
+Bateke;Ngogo;0.000275452
+Bateke;Nyungwe;0.000202928
+Bateke;Outamba-Kilimi;5.82E-06
+Bateke;Rubi-Tele;9.76E-05
+Bateke;Sangaredi;1.15E-05
+Bateke;Sapo;2.88E-05
+Bateke;Sobeya;2.65E-05
+Bateke;Tai;2.08E-05
+Bili-Uele;Boe;0.000144439
+Bili-Uele;Budongo;0.002399751
+Bili-Uele;Bwindi;0.002052325
+Bili-Uele;Comoe;0.000212886
+Bili-Uele;Conkouati;0.00121096
+Bili-Uele;Dindefelo;5.90E-05
+Bili-Uele;Djouroutou;3.33E-05
+Bili-Uele;East Nimba;8.35E-05
+Bili-Uele;Gashaka;0.000632209
+Bili-Uele;Gishwati;0.002169557
+Bili-Uele;Goualougo;0.001090498
+Bili-Uele;Grebo;0.000182935
+Bili-Uele;Issa-Ugalla;0.001910639
+Bili-Uele;Kabogo;0.000407901
+Bili-Uele;Kayan;0.000151925
+Bili-Uele;Korup;0.000179422
+Bili-Uele;La Belgique;0.000198437
+Bili-Uele;Loango;0.0009861
+Bili-Uele;Lope;0.000579114
+Bili-Uele;Mbe;0.000199419
+Bili-Uele;Mt. Cameroon;5.39E-05
+Bili-Uele;Mt. Cristal;0.00127007
+Bili-Uele;Mt. Sangbe;5.40E-05
+Bili-Uele;Ngogo;0.003808475
+Bili-Uele;Nyungwe;0.002346586
+Bili-Uele;Outamba-Kilimi;3.05E-05
+Bili-Uele;Rubi-Tele;0.001914907
+Bili-Uele;Sangaredi;5.91E-05
+Bili-Uele;Sapo;0.000118803
+Bili-Uele;Sobeya;0.000137011
+Bili-Uele;Tai;7.07E-05
+Boe;Budongo;0.000441175
+Boe;Bwindi;0.000306775
+Boe;Comoe;0.006467611
+Boe;Conkouati;0.001208
+Boe;Dindefelo;0.004573633
+Boe;Djouroutou;0.001786355
+Boe;East Nimba;0.003381412
+Boe;Gashaka;0.002261787
+Boe;Gishwati;0.000538666
+Boe;Goualougo;0.000327564
+Boe;Grebo;0.006710939
+Boe;Issa-Ugalla;0.001968568
+Boe;Kabogo;6.35E-05
+Boe;Kayan;0.007323525
+Boe;Korup;0.000573694
+Boe;La Belgique;3.53E-05
+Boe;Loango;0.001080052
+Boe;Lope;0.000193609
+Boe;Mbe;0.0004247
+Boe;Mt. Cameroon;3.96E-05
+Boe;Mt. Cristal;0.000499836
+Boe;Mt. Sangbe;0.001272614
+Boe;Ngogo;0.002618971
+Boe;Nyungwe;0.000546709
+Boe;Outamba-Kilimi;0.001379564
+Boe;Rubi-Tele;0.000162971
+Boe;Sangaredi;0.0038817
+Boe;Sapo;0.004273209
+Boe;Sobeya;0.005604659
+Boe;Tai;0.003570967
+Budongo;Bwindi;0.005310991
+Budongo;Comoe;0.000689161
+Budongo;Conkouati;0.002052353
+Budongo;Dindefelo;0.000147878
+Budongo;Djouroutou;9.33E-05
+Budongo;East Nimba;0.000204603
+Budongo;Gashaka;0.001289995
+Budongo;Gishwati;0.004968738
+Budongo;Goualougo;0.001533812
+Budongo;Grebo;0.000565051
+Budongo;Issa-Ugalla;0.004602615
+Budongo;Kabogo;0.000864142
+Budongo;Kayan;0.000512529
+Budongo;Korup;0.000446964
+Budongo;La Belgique;0.000234964
+Budongo;Loango;0.001708485
+Budongo;Lope;0.00094257
+Budongo;Mbe;0.000440515
+Budongo;Mt. Cameroon;0.000107111
+Budongo;Mt. Cristal;0.002155104
+Budongo;Mt. Sangbe;9.38E-05
+Budongo;Ngogo;0.010657924
+Budongo;Nyungwe;0.005974199
+Budongo;Outamba-Kilimi;6.35E-05
+Budongo;Rubi-Tele;0.002887602
+Budongo;Sangaredi;0.000131323
+Budongo;Sapo;0.000371782
+Budongo;Sobeya;0.000368688
+Budongo;Tai;0.000255173
+Bwindi;Comoe;0.000568679
+Bwindi;Conkouati;0.001912389
+Bwindi;Dindefelo;0.000147957
+Bwindi;Djouroutou;0.0001166
+Bwindi;East Nimba;0.000174111
+Bwindi;Gashaka;0.001215402
+Bwindi;Gishwati;0.005671427
+Bwindi;Goualougo;0.001554731
+Bwindi;Grebo;0.000418124
+Bwindi;Issa-Ugalla;0.005637236
+Bwindi;Kabogo;0.001125374
+Bwindi;Kayan;0.00036238
+Bwindi;Korup;0.000431299
+Bwindi;La Belgique;0.000230076
+Bwindi;Loango;0.001657113
+Bwindi;Lope;0.000948229
+Bwindi;Mbe;0.000388939
+Bwindi;Mt. Cameroon;0.000104785
+Bwindi;Mt. Cristal;0.002091885
+Bwindi;Mt. Sangbe;0.000106594
+Bwindi;Ngogo;0.008389055
+Bwindi;Nyungwe;0.007566537
+Bwindi;Outamba-Kilimi;4.95E-05
+Bwindi;Rubi-Tele;0.002553616
+Bwindi;Sangaredi;0.000116547
+Bwindi;Sapo;0.000281464
+Bwindi;Sobeya;0.000288891
+Bwindi;Tai;0.000152987
+Comoe;Conkouati;0.001521385
+Comoe;Dindefelo;0.003131694
+Comoe;Djouroutou;0.002447765
+Comoe;East Nimba;0.004298661
+Comoe;Gashaka;0.00272896
+Comoe;Gishwati;0.000776194
+Comoe;Goualougo;0.00049836
+Comoe;Grebo;0.008706802
+Comoe;Issa-Ugalla;0.002434406
+Comoe;Kabogo;0.00010639
+Comoe;Kayan;0.006349488
+Comoe;Korup;0.00069107
+Comoe;La Belgique;4.98E-05
+Comoe;Loango;0.001277445
+Comoe;Lope;0.000302326
+Comoe;Mbe;0.000603053
+Comoe;Mt. Cameroon;6.75E-05
+Comoe;Mt. Cristal;0.000804599
+Comoe;Mt. Sangbe;0.001899331
+Comoe;Ngogo;0.003179294
+Comoe;Nyungwe;0.000825909
+Comoe;Outamba-Kilimi;0.001432679
+Comoe;Rubi-Tele;0.000225623
+Comoe;Sangaredi;0.002631654
+Comoe;Sapo;0.005686498
+Comoe;Sobeya;0.005418404
+Comoe;Tai;0.004892365
+Conkouati;Dindefelo;0.000304568
+Conkouati;Djouroutou;0.000192477
+Conkouati;East Nimba;0.000410275
+Conkouati;Gashaka;0.003569238
+Conkouati;Gishwati;0.0021372
+Conkouati;Goualougo;0.006476687
+Conkouati;Grebo;0.001358821
+Conkouati;Issa-Ugalla;0.003167883
+Conkouati;Kabogo;0.000528455
+Conkouati;Kayan;0.001171571
+Conkouati;Korup;0.000995093
+Conkouati;La Belgique;0.001579689
+Conkouati;Loango;0.021344102
+Conkouati;Lope;0.011344438
+Conkouati;Mbe;0.000876913
+Conkouati;Mt. Cameroon;0.000296723
+Conkouati;Mt. Cristal;0.008890657
+Conkouati;Mt. Sangbe;0.000171265
+Conkouati;Ngogo;0.004479572
+Conkouati;Nyungwe;0.002746577
+Conkouati;Outamba-Kilimi;0.000105306
+Conkouati;Rubi-Tele;0.00107467
+Conkouati;Sangaredi;0.000227243
+Conkouati;Sapo;0.000909155
+Conkouati;Sobeya;0.000858937
+Conkouati;Tai;0.000530946
+Dindefelo;Djouroutou;0.001150658
+Dindefelo;East Nimba;0.00199034
+Dindefelo;Gashaka;0.000460724
+Dindefelo;Gishwati;0.00018661
+Dindefelo;Goualougo;0.00013755
+Dindefelo;Grebo;0.003017443
+Dindefelo;Issa-Ugalla;0.000390366
+Dindefelo;Kabogo;3.52E-05
+Dindefelo;Kayan;0.004021099
+Dindefelo;Korup;0.000121725
+Dindefelo;La Belgique;8.52E-06
+Dindefelo;Loango;0.000243824
+Dindefelo;Lope;7.45E-05
+Dindefelo;Mbe;0.000149925
+Dindefelo;Mt. Cameroon;2.56E-05
+Dindefelo;Mt. Cristal;0.000198237
+Dindefelo;Mt. Sangbe;0.000748309
+Dindefelo;Ngogo;0.000493194
+Dindefelo;Nyungwe;0.000197062
+Dindefelo;Outamba-Kilimi;0.001055672
+Dindefelo;Rubi-Tele;7.40E-05
+Dindefelo;Sangaredi;0.002494386
+Dindefelo;Sapo;0.002058657
+Dindefelo;Sobeya;0.003090894
+Dindefelo;Tai;0.002050037
+Djouroutou;East Nimba;0.001764041
+Djouroutou;Gashaka;0.000272383
+Djouroutou;Gishwati;7.51E-05
+Djouroutou;Goualougo;8.70E-05
+Djouroutou;Grebo;0.002945269
+Djouroutou;Issa-Ugalla;0.00024079
+Djouroutou;Kabogo;3.18E-05
+Djouroutou;Kayan;0.001669074
+Djouroutou;Korup;0.000100856
+Djouroutou;La Belgique;1.10E-05
+Djouroutou;Loango;0.000154629
+Djouroutou;Lope;5.97E-05
+Djouroutou;Mbe;9.21E-05
+Djouroutou;Mt. Cameroon;1.63E-05
+Djouroutou;Mt. Cristal;0.000137502
+Djouroutou;Mt. Sangbe;0.000742512
+Djouroutou;Ngogo;0.000320871
+Djouroutou;Nyungwe;0.000102548
+Djouroutou;Outamba-Kilimi;0.00055249
+Djouroutou;Rubi-Tele;4.08E-05
+Djouroutou;Sangaredi;0.000962151
+Djouroutou;Sapo;0.002097765
+Djouroutou;Sobeya;0.001577259
+Djouroutou;Tai;0.002330818
+East Nimba;Gashaka;0.000592646
+East Nimba;Gishwati;0.000255488
+East Nimba;Goualougo;0.000177325
+East Nimba;Grebo;0.004940809
+East Nimba;Issa-Ugalla;0.000530664
+East Nimba;Kabogo;4.08E-05
+East Nimba;Kayan;0.003258388
+East Nimba;Korup;0.000175252
+East Nimba;La Belgique;2.55E-05
+East Nimba;Loango;0.000297943
+East Nimba;Lope;0.000104072
+East Nimba;Mbe;0.000195808
+East Nimba;Mt. Cameroon;2.79E-05
+East Nimba;Mt. Cristal;0.000274396
+East Nimba;Mt. Sangbe;0.00130728
+East Nimba;Ngogo;0.000733513
+East Nimba;Nyungwe;0.000267893
+East Nimba;Outamba-Kilimi;0.000893668
+East Nimba;Rubi-Tele;8.67E-05
+East Nimba;Sangaredi;0.00171838
+East Nimba;Sapo;0.003162047
+East Nimba;Sobeya;0.002808703
+East Nimba;Tai;0.003329164
+Gashaka;Gishwati;0.001407177
+Gashaka;Goualougo;0.003845931
+Gashaka;Grebo;0.002695612
+Gashaka;Issa-Ugalla;0.003075926
+Gashaka;Kabogo;0.000245672
+Gashaka;Kayan;0.002282392
+Gashaka;Korup;0.008510055
+Gashaka;La Belgique;0.000736619
+Gashaka;Loango;0.002974481
+Gashaka;Lope;0.001442043
+Gashaka;Mbe;0.008394008
+Gashaka;Mt. Cameroon;0.003755086
+Gashaka;Mt. Cristal;0.003806619
+Gashaka;Mt. Sangbe;0.000252663
+Gashaka;Ngogo;0.004322938
+Gashaka;Nyungwe;0.001753207
+Gashaka;Outamba-Kilimi;0.000120155
+Gashaka;Rubi-Tele;0.000567915
+Gashaka;Sangaredi;0.000315264
+Gashaka;Sapo;0.001532359
+Gashaka;Sobeya;0.001651637
+Gashaka;Tai;0.000900302
+Gishwati;Goualougo;0.001618099
+Gishwati;Grebo;0.000596987
+Gishwati;Issa-Ugalla;0.006146414
+Gishwati;Kabogo;0.001218561
+Gishwati;Kayan;0.000544537
+Gishwati;Korup;0.000490053
+Gishwati;La Belgique;0.000224963
+Gishwati;Loango;0.001864593
+Gishwati;Lope;0.000994216
+Gishwati;Mbe;0.000491919
+Gishwati;Mt. Cameroon;0.000103577
+Gishwati;Mt. Cristal;0.00234728
+Gishwati;Mt. Sangbe;0.000122207
+Gishwati;Ngogo;0.008181947
+Gishwati;Nyungwe;0.008855743
+Gishwati;Outamba-Kilimi;4.83E-05
+Gishwati;Rubi-Tele;0.002709717
+Gishwati;Sangaredi;0.000147856
+Gishwati;Sapo;0.000369602
+Gishwati;Sobeya;0.000414089
+Gishwati;Tai;0.000253332
+Goualougo;Grebo;0.00039308
+Goualougo;Issa-Ugalla;0.001876746
+Goualougo;Kabogo;0.000458344
+Goualougo;Kayan;0.000376197
+Goualougo;Korup;0.000893302
+Goualougo;La Belgique;0.002586074
+Goualougo;Loango;0.005760747
+Goualougo;Lope;0.003821923
+Goualougo;Mbe;0.000862572
+Goualougo;Mt. Cameroon;0.000341301
+Goualougo;Mt. Cristal;0.010284423
+Goualougo;Mt. Sangbe;9.70E-05
+Goualougo;Ngogo;0.002824781
+Goualougo;Nyungwe;0.002068001
+Goualougo;Outamba-Kilimi;5.81E-05
+Goualougo;Rubi-Tele;0.000929861
+Goualougo;Sangaredi;0.000104888
+Goualougo;Sapo;0.000266757
+Goualougo;Sobeya;0.000262783
+Goualougo;Tai;0.000178349
+Grebo;Issa-Ugalla;0.00233763
+Grebo;Kabogo;8.15E-05
+Grebo;Kayan;0.00646495
+Grebo;Korup;0.000664789
+Grebo;La Belgique;3.40E-05
+Grebo;Loango;0.001218772
+Grebo;Lope;0.000237654
+Grebo;Mbe;0.000473977
+Grebo;Mt. Cameroon;6.63E-05
+Grebo;Mt. Cristal;0.000619132
+Grebo;Mt. Sangbe;0.001946423
+Grebo;Ngogo;0.003187404
+Grebo;Nyungwe;0.000651036
+Grebo;Outamba-Kilimi;0.00134283
+Grebo;Rubi-Tele;0.000166836
+Grebo;Sangaredi;0.002446544
+Grebo;Sapo;0.007407454
+Grebo;Sobeya;0.005579554
+Grebo;Tai;0.005503359
+Issa-Ugalla;Kabogo;0.001369499
+Issa-Ugalla;Kayan;0.001935838
+Issa-Ugalla;Korup;0.000932425
+Issa-Ugalla;La Belgique;0.000284446
+Issa-Ugalla;Loango;0.002813545
+Issa-Ugalla;Lope;0.001179527
+Issa-Ugalla;Mbe;0.000690483
+Issa-Ugalla;Mt. Cameroon;0.000104704
+Issa-Ugalla;Mt. Cristal;0.002633758
+Issa-Ugalla;Mt. Sangbe;0.00018464
+Issa-Ugalla;Ngogo;0.01015256
+Issa-Ugalla;Nyungwe;0.008613767
+Issa-Ugalla;Outamba-Kilimi;0.000115803
+Issa-Ugalla;Rubi-Tele;0.002192478
+Issa-Ugalla;Sangaredi;0.000286808
+Issa-Ugalla;Sapo;0.001377559
+Issa-Ugalla;Sobeya;0.001426303
+Issa-Ugalla;Tai;0.000758635
+Kabogo;Kayan;8.04E-05
+Kabogo;Korup;8.41E-05
+Kabogo;La Belgique;8.44E-05
+Kabogo;Loango;0.000505495
+Kabogo;Lope;0.000280066
+Kabogo;Mbe;9.75E-05
+Kabogo;Mt. Cameroon;3.68E-05
+Kabogo;Mt. Cristal;0.000600229
+Kabogo;Mt. Sangbe;2.96E-05
+Kabogo;Ngogo;0.00155924
+Kabogo;Nyungwe;0.001696326
+Kabogo;Outamba-Kilimi;1.38E-05
+Kabogo;Rubi-Tele;0.000542993
+Kabogo;Sangaredi;2.61E-05
+Kabogo;Sapo;5.21E-05
+Kabogo;Sobeya;4.99E-05
+Kabogo;Tai;4.08E-05
+Kayan;Korup;0.000578404
+Kayan;La Belgique;4.50E-05
+Kayan;Loango;0.001068775
+Kayan;Lope;0.000246103
+Kayan;Mbe;0.000410859
+Kayan;Mt. Cameroon;6.40E-05
+Kayan;Mt. Cristal;0.000583364
+Kayan;Mt. Sangbe;0.001201084
+Kayan;Ngogo;0.002679091
+Kayan;Nyungwe;0.000573418
+Kayan;Outamba-Kilimi;0.001371436
+Kayan;Rubi-Tele;0.000171076
+Kayan;Sangaredi;0.002978973
+Kayan;Sapo;0.004170061
+Kayan;Sobeya;0.005320886
+Kayan;Tai;0.003569292
+Korup;La Belgique;0.000171683
+Korup;Loango;0.000837147
+Korup;Lope;0.000405002
+Korup;Mbe;0.005392494
+Korup;Mt. Cameroon;0.003098266
+Korup;Mt. Cristal;0.001016022
+Korup;Mt. Sangbe;8.42E-05
+Korup;Ngogo;0.001279465
+Korup;Nyungwe;0.000594234
+Korup;Outamba-Kilimi;3.88E-05
+Korup;Rubi-Tele;0.000228667
+Korup;Sangaredi;9.44E-05
+Korup;Sapo;0.000451168
+Korup;Sobeya;0.00042631
+Korup;Tai;0.000249063
+La Belgique;Loango;0.001245606
+La Belgique;Lope;0.000875635
+La Belgique;Mbe;0.000180045
+La Belgique;Mt. Cameroon;0.00010074
+La Belgique;Mt. Cristal;0.002503639
+La Belgique;Mt. Sangbe;1.83E-05
+La Belgique;Ngogo;0.000381661
+La Belgique;Nyungwe;0.000302737
+La Belgique;Outamba-Kilimi;1.84E-05
+La Belgique;Rubi-Tele;0.000146857
+La Belgique;Sangaredi;1.34E-05
+La Belgique;Sapo;3.65E-05
+La Belgique;Sobeya;2.55E-05
+La Belgique;Tai;1.70E-05
+Loango;Lope;0.010544436
+Loango;Mbe;0.000713961
+Loango;Mt. Cameroon;0.000197902
+Loango;Mt. Cristal;0.00798284
+Loango;Mt. Sangbe;0.000174461
+Loango;Ngogo;0.003855402
+Loango;Nyungwe;0.002343769
+Loango;Outamba-Kilimi;9.35E-05
+Loango;Rubi-Tele;0.000945584
+Loango;Sangaredi;0.000198773
+Loango;Sapo;0.000749171
+Loango;Sobeya;0.000792942
+Loango;Tai;0.000456665
+Lope;Mbe;0.00035087
+Lope;Mt. Cameroon;0.000119127
+Lope;Mt. Cristal;0.005183609
+Lope;Mt. Sangbe;5.89E-05
+Lope;Ngogo;0.001768594
+Lope;Nyungwe;0.001401396
+Lope;Outamba-Kilimi;5.29E-05
+Lope;Rubi-Tele;0.000567675
+Lope;Sangaredi;7.57E-05
+Lope;Sapo;0.000159189
+Lope;Sobeya;0.000154038
+Lope;Tai;0.000120005
+Mbe;Mt. Cameroon;0.002505242
+Mbe;Mt. Cristal;0.000985747
+Mbe;Mt. Sangbe;7.98E-05
+Mbe;Ngogo;0.001121599
+Mbe;Nyungwe;0.000622042
+Mbe;Outamba-Kilimi;5.26E-05
+Mbe;Rubi-Tele;0.000221766
+Mbe;Sangaredi;0.000116329
+Mbe;Sapo;0.00027445
+Mbe;Sobeya;0.000308436
+Mbe;Tai;0.000221045
+Mt. Cameroon;Mt. Cristal;0.000346818
+Mt. Cameroon;Mt. Sangbe;1.52E-05
+Mt. Cameroon;Ngogo;0.000186119
+Mt. Cameroon;Nyungwe;0.000139631
+Mt. Cameroon;Outamba-Kilimi;1.17E-05
+Mt. Cameroon;Rubi-Tele;7.50E-05
+Mt. Cameroon;Sangaredi;2.10E-05
+Mt. Cameroon;Sapo;3.37E-05
+Mt. Cameroon;Sobeya;4.42E-05
+Mt. Cameroon;Tai;2.79E-05
+Mt. Sangbe;Mt. Cristal;0.000142376
+Mt. Cristal;Ngogo;0.003932884
+Mt. Cristal;Nyungwe;0.003136068
+Mt. Cristal;Outamba-Kilimi;9.02E-05
+Mt. Cristal;Rubi-Tele;0.001295868
+Mt. Cristal;Sangaredi;0.000189059
+Mt. Cristal;Sapo;0.000448375
+Mt. Cristal;Sobeya;0.000405773
+Mt. Cristal;Tai;0.000268042
+Mt. Sangbe;Ngogo;0.000299136
+Mt. Sangbe;Nyungwe;0.000113638
+Mt. Sangbe;Outamba-Kilimi;0.000245136
+Mt. Sangbe;Rubi-Tele;3.99E-05
+Mt. Sangbe;Sangaredi;0.001032377
+Mt. Sangbe;Sapo;0.001326755
+Mt. Sangbe;Sobeya;0.001087975
+Mt. Sangbe;Tai;0.001298704
+Ngogo;Nyungwe;0.010148573
+Ngogo;Outamba-Kilimi;0.00014044
+Ngogo;Rubi-Tele;0.004581704
+Ngogo;Sangaredi;0.000383623
+Ngogo;Sapo;0.001832667
+Ngogo;Sobeya;0.001852654
+Ngogo;Tai;0.000975786
+Nyungwe;Outamba-Kilimi;6.76E-05
+Nyungwe;Rubi-Tele;0.003046634
+Nyungwe;Sangaredi;0.000154142
+Nyungwe;Sapo;0.000423847
+Nyungwe;Sobeya;0.000456854
+Nyungwe;Tai;0.000261517
+Outamba-Kilimi;Rubi-Tele;2.61E-05
+Outamba-Kilimi;Sangaredi;0.000750799
+Outamba-Kilimi;Sapo;0.000918046
+Outamba-Kilimi;Sobeya;0.001213059
+Outamba-Kilimi;Tai;0.000828247
+Rubi-Tele;Sangaredi;5.15E-05
+Rubi-Tele;Sapo;0.000116586
+Rubi-Tele;Sobeya;0.000135969
+Rubi-Tele;Tai;8.67E-05
+Sangaredi;Sapo;0.001694838
+Sangaredi;Sobeya;0.002289259
+Sangaredi;Tai;0.0016856
+Sapo;Sobeya;0.003484328
+Sapo;Tai;0.003974619
+Sobeya;Tai;0.003086041

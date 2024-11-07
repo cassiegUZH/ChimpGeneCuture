@@ -1,0 +1,134 @@
+site1;site2
+Bafing;Bakoun-Sobory
+Bafing;Boe
+Bafing;Comoe
+Bafing;Dindefelo
+Bafing;Djouroutou
+Bafing;Grebo
+Bafing;Kayan
+Bafing;Sangaredi
+Bafing;Sapo
+Bafing;Sobeya
+Boe;Bakoun-Sobory
+Comoe;Bakoun-Sobory
+Dindefelo;Bakoun-Sobory
+Djouroutou;Bakoun-Sobory
+East Nimba;Bakoun-Sobory
+Grebo;Bakoun-Sobory
+Kayan;Bakoun-Sobory
+Sangaredi;Bakoun-Sobory
+Sapo;Bakoun-Sobory
+Sobeya;Bakoun-Sobory
+Bakoun-Sobory;Tai
+Bateke;Conkouati
+Bateke;Goualougo
+Bateke;Loango
+Bateke;Lope
+Bateke;Mt. Cristal
+Bili-Uele;Budongo
+Bili-Uele;Gashaka
+Bili-Uele;Issa-Ugalla
+Bili-Uele;Mt. Cristal
+Bili-Uele;Ngogo
+Bili-Uele;Nyungwe
+Boe;Comoe
+Boe;Dindefelo
+Boe;Djouroutou
+Boe;East Nimba
+Boe;Grebo
+Boe;Kayan
+Boe;Sangaredi
+Boe;Sapo
+Boe;Sobeya
+Boe;Tai
+Budongo;Bwindi
+Budongo;Gishwati
+Budongo;Issa-Ugalla
+Budongo;Kabogo
+Budongo;Ngogo
+Budongo;Nyungwe
+Budongo;Rubi-Tele
+Bwindi;Conkouati
+Bwindi;Gishwati
+Bwindi;Issa-Ugalla
+Bwindi;Ngogo
+Bwindi;Nyungwe
+Bwindi;Rubi-Tele
+Comoe;Dindefelo
+Comoe;Djouroutou
+Comoe;East Nimba
+Comoe;Grebo
+Comoe;Kayan
+Comoe;Mt. Sangbe
+Comoe;Sangaredi
+Comoe;Sapo
+Comoe;Sobeya
+Comoe;Tai
+Conkouati;Loango
+Conkouati;Lope
+Dindefelo;Djouroutou
+Dindefelo;East Nimba
+Dindefelo;Grebo
+Dindefelo;Kayan
+Dindefelo;Sangaredi
+Dindefelo;Sapo
+Dindefelo;Sobeya
+Dindefelo;Tai
+Djouroutou;East Nimba
+Djouroutou;Grebo
+Djouroutou;Kayan
+Djouroutou;Mt. Sangbe
+Djouroutou;Sangaredi
+Djouroutou;Sapo
+Djouroutou;Sobeya
+Djouroutou;Tai
+East Nimba;Grebo
+East Nimba;Kayan
+East Nimba;Mt. Sangbe
+East Nimba;Sangaredi
+East Nimba;Sapo
+East Nimba;Sobeya
+East Nimba;Tai
+Gashaka;Goualougo
+Gashaka;Korup
+Gashaka;Mbe
+Gashaka;Mt. Cameroon
+Gashaka;Ngogo
+Gishwati;Issa-Ugalla
+Gishwati;Ngogo
+Gishwati;Nyungwe
+Goualougo;La Belgique
+Goualougo;Lope
+Goualougo;Mt. Cristal
+Grebo;Kayan
+Grebo;Mt. Sangbe
+Grebo;Sangaredi
+Grebo;Sapo
+Grebo;Sobeya
+Grebo;Tai
+Issa-Ugalla;Ngogo
+Issa-Ugalla;Nyungwe
+Kabogo;Ngogo
+Kayan;Mt. Sangbe
+Kayan;Sangaredi
+Kayan;Sapo
+Kayan;Sobeya
+Kayan;Tai
+Korup;Mbe
+Korup;Mt. Cameroon
+Korup;Ngogo
+Loango;Lope
+Loango;Mt. Cristal
+Lope;Mt. Cristal
+Mbe;Mt. Cameroon
+Mt. Cristal;Ngogo
+Mt. Sangbe;Sangaredi
+Ngogo;Nyungwe
+Ngogo;Rubi-Tele
+Nyungwe;Rubi-Tele
+Sangaredi;Sapo
+Sangaredi;Sobeya
+Sangaredi;Tai
+Sapo;Sobeya
+Sapo;Tai
+Sobeya;Tai
