@@ -1,0 +1,28 @@
+links,weighted,newman,ycn,probs,unweighted
+"('Bakoun-Sobory', 'La Belgique')",3,5,11,8,1
+"('Bakoun-Sobory', 'Loango')",3,5,6,9,1
+"('Bakoun-Sobory', 'Tai')",3,5,6,9,1
+"('Bakoun-Sobory', 'Ngogo')",3,5,14,4,1
+"('Bakoun-Sobory', 'Goualougo')",3,5,13,4,1
+"('Bili-Uele', 'Budongo')",3,3,9,1,1
+"('Bili-Uele', 'Tai')",3,3,2,4,1
+"('Bili-Uele', 'Loango')",3,3,2,4,1
+"('Budongo', 'Loango')",3,3,2,4,1
+"('Budongo', 'Tai')",3,3,2,4,1
+"('Dindefelo', 'Lope')",3,4,12,3,1
+"('Dindefelo', 'La Belgique')",3,4,8,6,1
+"('Dindefelo', 'Loango')",3,4,5,7,1
+"('Dindefelo', 'Tai')",3,4,5,7,1
+"('Goualougo', 'La Belgique')",3,5,10,8,1
+"('Goualougo', 'Loango')",3,5,6,9,1
+"('Goualougo', 'Tai')",3,5,6,9,1
+"('Goualougo', 'Ngogo')",3,5,13,4,1
+"('La Belgique', 'Loango')",2,2,3,5,1
+"('La Belgique', 'Tai')",2,2,3,5,1
+"('La Belgique', 'Lope')",3,4,7,6,1
+"('La Belgique', 'Ngogo')",3,5,11,8,1
+"('Loango', 'Tai')",1,1,1,2,1
+"('Loango', 'Lope')",3,4,4,7,1
+"('Loango', 'Ngogo')",3,5,6,9,1
+"('Lope', 'Tai')",3,4,4,7,1
+"('Ngogo', 'Tai')",3,5,6,9,1

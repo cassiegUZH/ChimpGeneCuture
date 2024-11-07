@@ -1,0 +1,24 @@
+links,weighted,newman,ycn,probs,unweighted
+"('Conkouati', 'Loango')",2,2,2,1,1
+"('Conkouati', 'Goualougo')",2,2,2,1,1
+"('Djouroutou', 'East Nimba')",2,3,8,1,1
+"('Djouroutou', 'Tai')",2,3,7,1,1
+"('Djouroutou', 'Sapo')",2,3,6,1,1
+"('East Nimba', 'Tai')",2,3,9,1,1
+"('East Nimba', 'Sapo')",2,3,8,1,1
+"('Gashaka', 'La Belgique')",2,4,5,2,1
+"('Gashaka', 'Loango')",2,4,3,3,1
+"('Gashaka', 'Mt. Cristal')",2,4,5,2,1
+"('Gashaka', 'Goualougo')",2,4,3,3,1
+"('Gashaka', 'Korup')",2,4,5,2,1
+"('Goualougo', 'La Belgique')",2,4,3,3,1
+"('Goualougo', 'Loango')",1,1,1,1,1
+"('Goualougo', 'Mt. Cristal')",2,4,3,3,1
+"('Goualougo', 'Korup')",2,4,3,3,1
+"('Korup', 'La Belgique')",2,4,4,2,1
+"('Korup', 'Loango')",2,4,3,3,1
+"('Korup', 'Mt. Cristal')",2,4,4,2,1
+"('La Belgique', 'Loango')",2,4,3,3,1
+"('La Belgique', 'Mt. Cristal')",2,4,4,2,1
+"('Loango', 'Mt. Cristal')",2,4,3,3,1
+"('Sapo', 'Tai')",2,3,7,1,1

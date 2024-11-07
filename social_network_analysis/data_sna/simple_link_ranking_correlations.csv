@@ -1,0 +1,206 @@
+links,weighted,newman,ycn,probs,unweighted
+"('Bafing', 'La Belgique')",5,23,100,39,1
+"('Bafing', 'Dindefelo')",5,23,73,46,1
+"('Bafing', 'Korup')",5,23,96,39,1
+"('Bafing', 'Kayan')",5,23,114,25,1
+"('Bafing', 'Comoe')",5,23,48,54,1
+"('Bafing', 'Sobeya')",5,23,98,39,1
+"('Bafing', 'Mt. Cristal')",5,23,113,25,1
+"('Bafing', 'Bakoun-Sobory')",5,23,72,46,1
+"('Bafing', 'Mt. Cameroon')",5,23,113,25,1
+"('Bafing', 'Ngogo')",5,23,61,51,1
+"('Bafing', 'Goualougo')",5,23,38,56,1
+"('Bafing', 'Bateke')",5,23,95,39,1
+"('Bafing', 'Issa-Ugalla')",5,23,96,39,1
+"('Bakoun-Sobory', 'La Belgique')",5,23,108,65,1
+"('Bakoun-Sobory', 'Dindefelo')",3,5,6,6,1
+"('Bakoun-Sobory', 'Comoe')",4,18,45,49,1
+"('Bakoun-Sobory', 'Bili-Uele')",5,21,81,66,1
+"('Bakoun-Sobory', 'Budongo')",5,21,78,55,1
+"('Bakoun-Sobory', 'Ngogo')",5,23,111,74,1
+"('Bakoun-Sobory', 'Boe')",5,21,77,55,1
+"('Bakoun-Sobory', 'Sangaredi')",4,7,9,4,1
+"('Bakoun-Sobory', 'Gashaka')",5,21,85,63,1
+"('Bakoun-Sobory', 'Sobeya')",4,8,14,7,1
+"('Bakoun-Sobory', 'Tai')",5,21,80,66,1
+"('Bakoun-Sobory', 'Mt. Cristal')",5,23,72,46,1
+"('Bakoun-Sobory', 'Mt. Cameroon')",5,23,72,46,1
+"('Bakoun-Sobory', 'Goualougo')",4,18,41,54,1
+"('Bakoun-Sobory', 'Korup')",5,23,106,65,1
+"('Bakoun-Sobory', 'Bateke')",5,23,106,65,1
+"('Bakoun-Sobory', 'Issa-Ugalla')",5,23,106,65,1
+"('Bakoun-Sobory', 'Kayan')",5,23,73,46,1
+"('Bateke', 'La Belgique')",5,23,115,61,1
+"('Bateke', 'Dindefelo')",5,23,106,65,1
+"('Bateke', 'Comoe')",4,20,40,40,1
+"('Bateke', 'Bili-Uele')",5,22,92,67,1
+"('Bateke', 'Ngogo')",4,20,49,36,1
+"('Bateke', 'Conkouati')",5,22,89,35,1
+"('Bateke', 'Boe')",5,22,109,58,1
+"('Bateke', 'Gashaka')",5,22,103,64,1
+"('Bateke', 'Nyungwe')",5,22,109,58,1
+"('Bateke', 'Loango')",5,22,109,58,1
+"('Bateke', 'Bwindi')",5,22,90,35,1
+"('Bateke', 'Sobeya')",5,23,114,61,1
+"('Bateke', 'Tai')",5,22,91,67,1
+"('Bateke', 'Mt. Cristal')",5,23,95,39,1
+"('Bateke', 'Mt. Cameroon')",5,23,95,39,1
+"('Bateke', 'Goualougo')",4,20,29,44,1
+"('Bateke', 'Korup')",5,23,113,61,1
+"('Bateke', 'Issa-Ugalla')",5,23,113,61,1
+"('Bateke', 'Kayan')",5,23,95,39,1
+"('Bateke', 'Lope')",5,22,102,64,1
+"('Bili-Uele', 'La Belgique')",5,6,7,10,1
+"('Bili-Uele', 'Dindefelo')",5,21,81,66,1
+"('Bili-Uele', 'Comoe')",4,17,51,57,1
+"('Bili-Uele', 'Budongo')",5,21,70,59,1
+"('Bili-Uele', 'Ngogo')",5,22,110,75,1
+"('Bili-Uele', 'Conkouati')",5,22,59,45,1
+"('Bili-Uele', 'Boe')",4,17,36,28,1
+"('Bili-Uele', 'Sangaredi')",5,21,69,59,1
+"('Bili-Uele', 'Rubi-Tele')",5,16,12,13,1
+"('Bili-Uele', 'Gashaka')",3,9,11,14,1
+"('Bili-Uele', 'Nyungwe')",4,4,5,3,1
+"('Bili-Uele', 'Loango')",5,22,94,67,1
+"('Bili-Uele', 'Bwindi')",5,22,59,45,1
+"('Bili-Uele', 'Tai')",4,17,55,52,1
+"('Bili-Uele', 'Goualougo')",4,17,47,60,1
+"('Bili-Uele', 'Korup')",5,16,42,30,1
+"('Bili-Uele', 'Issa-Ugalla')",5,16,42,30,1
+"('Bili-Uele', 'Lope')",4,12,26,26,1
+"('Boe', 'Sangaredi')",5,21,84,43,1
+"('Boe', 'Loango')",5,22,110,58,1
+"('Boe', 'Bwindi')",5,22,92,35,1
+"('Boe', 'Nyungwe')",5,22,110,58,1
+"('Boe', 'Dindefelo')",5,21,77,55,1
+"('Boe', 'Conkouati')",5,22,92,35,1
+"('Boe', 'Comoe')",4,17,25,31,1
+"('Boe', 'Tai')",4,17,35,28,1
+"('Boe', 'Goualougo')",4,17,19,33,1
+"('Boe', 'Lope')",5,22,103,64,1
+"('Boe', 'Budongo')",5,21,87,43,1
+"('Boe', 'Ngogo')",5,22,92,67,1
+"('Boe', 'Gashaka')",4,17,47,22,1
+"('Budongo', 'Sangaredi')",5,21,88,43,1
+"('Budongo', 'Loango')",5,19,64,25,1
+"('Budongo', 'Dindefelo')",5,21,79,55,1
+"('Budongo', 'Comoe')",4,13,13,17,1
+"('Budongo', 'Tai')",4,13,18,16,1
+"('Budongo', 'Goualougo')",4,13,8,20,1
+"('Budongo', 'Lope')",5,19,60,32,1
+"('Budongo', 'Ngogo')",5,19,54,39,1
+"('Budongo', 'Gashaka')",5,21,77,55,1
+"('Bwindi', 'Loango')",5,22,93,35,1
+"('Bwindi', 'Nyungwe')",5,22,93,35,1
+"('Bwindi', 'Comoe')",5,22,44,48,1
+"('Bwindi', 'Gashaka')",5,22,66,42,1
+"('Bwindi', 'Goualougo')",5,22,32,50,1
+"('Bwindi', 'Tai')",5,22,57,45,1
+"('Bwindi', 'Lope')",5,22,65,42,1
+"('Bwindi', 'Ngogo')",5,22,58,45,1
+"('Bwindi', 'Conkouati')",5,22,109,21,1
+"('Comoe', 'La Belgique')",5,23,83,71,1
+"('Comoe', 'Dindefelo')",4,18,46,49,1
+"('Comoe', 'Ngogo')",2,3,4,5,1
+"('Comoe', 'Conkouati')",5,22,44,48,1
+"('Comoe', 'Sangaredi')",5,21,63,62,1
+"('Comoe', 'Gashaka')",4,17,43,47,1
+"('Comoe', 'Nyungwe')",5,22,75,68,1
+"('Comoe', 'Loango')",4,15,17,21,1
+"('Comoe', 'Sobeya')",5,23,82,71,1
+"('Comoe', 'Tai')",3,10,16,24,1
+"('Comoe', 'Mt. Cristal')",5,23,48,54,1
+"('Comoe', 'Mt. Cameroon')",5,23,48,54,1
+"('Comoe', 'Goualougo')",1,2,2,8,1
+"('Comoe', 'Korup')",5,23,82,71,1
+"('Comoe', 'Issa-Ugalla')",5,23,82,71,1
+"('Comoe', 'Kayan')",5,23,48,54,1
+"('Comoe', 'Lope')",4,15,28,34,1
+"('Conkouati', 'Loango')",5,22,92,35,1
+"('Conkouati', 'Nyungwe')",5,22,92,35,1
+"('Conkouati', 'Tai')",5,22,57,45,1
+"('Conkouati', 'Goualougo')",5,22,32,50,1
+"('Conkouati', 'Lope')",5,22,65,42,1
+"('Conkouati', 'Ngogo')",5,22,58,45,1
+"('Conkouati', 'Gashaka')",5,22,66,42,1
+"('Dindefelo', 'La Belgique')",5,23,108,65,1
+"('Dindefelo', 'Ngogo')",5,23,112,74,1
+"('Dindefelo', 'Sangaredi')",4,7,9,4,1
+"('Dindefelo', 'Gashaka')",5,21,86,63,1
+"('Dindefelo', 'Sobeya')",4,8,14,7,1
+"('Dindefelo', 'Tai')",5,21,80,66,1
+"('Dindefelo', 'Mt. Cristal')",5,23,73,46,1
+"('Dindefelo', 'Mt. Cameroon')",5,23,73,46,1
+"('Dindefelo', 'Goualougo')",4,18,41,54,1
+"('Dindefelo', 'Korup')",5,23,107,65,1
+"('Dindefelo', 'Issa-Ugalla')",5,23,107,65,1
+"('Dindefelo', 'Kayan')",5,23,74,46,1
+"('Gashaka', 'Ngogo')",5,22,105,73,1
+"('Gashaka', 'Sangaredi')",5,21,76,55,1
+"('Gashaka', 'Rubi-Tele')",5,16,21,12,1
+"('Gashaka', 'Nyungwe')",5,22,104,64,1
+"('Gashaka', 'Loango')",5,22,104,64,1
+"('Gashaka', 'Tai')",4,17,50,41,1
+"('Gashaka', 'Goualougo')",4,17,37,53,1
+"('Gashaka', 'Korup')",5,16,53,27,1
+"('Gashaka', 'Issa-Ugalla')",5,16,53,27,1
+"('Gashaka', 'Lope')",4,12,30,19,1
+"('Goualougo', 'La Belgique')",5,23,72,72,1
+"('Goualougo', 'Ngogo')",2,3,3,9,1
+"('Goualougo', 'Sangaredi')",5,21,56,63,1
+"('Goualougo', 'Nyungwe')",5,22,67,70,1
+"('Goualougo', 'Loango')",4,15,10,23,1
+"('Goualougo', 'Sobeya')",5,23,72,72,1
+"('Goualougo', 'Tai')",2,1,1,1,1
+"('Goualougo', 'Mt. Cristal')",5,23,38,56,1
+"('Goualougo', 'Mt. Cameroon')",5,23,38,56,1
+"('Goualougo', 'Korup')",5,23,71,72,1
+"('Goualougo', 'Issa-Ugalla')",5,23,71,72,1
+"('Goualougo', 'Kayan')",5,23,38,56,1
+"('Goualougo', 'Lope')",4,15,24,38,1
+"('Issa-Ugalla', 'La Belgique')",5,23,115,61,1
+"('Issa-Ugalla', 'Sobeya')",5,23,115,61,1
+"('Issa-Ugalla', 'Kayan')",5,23,96,39,1
+"('Issa-Ugalla', 'Rubi-Tele')",5,16,42,10,1
+"('Issa-Ugalla', 'Lope')",5,16,52,27,1
+"('Issa-Ugalla', 'Mt. Cameroon')",5,23,96,39,1
+"('Issa-Ugalla', 'Mt. Cristal')",5,23,96,39,1
+"('Issa-Ugalla', 'Ngogo')",5,23,96,69,1
+"('Issa-Ugalla', 'Korup')",4,14,31,11,1
+"('Kayan', 'La Belgique')",5,23,101,39,1
+"('Kayan', 'Korup')",5,23,96,39,1
+"('Kayan', 'Sobeya')",5,23,99,39,1
+"('Kayan', 'Mt. Cristal')",5,23,114,25,1
+"('Kayan', 'Mt. Cameroon')",5,23,114,25,1
+"('Kayan', 'Ngogo')",5,23,62,51,1
+"('Korup', 'La Belgique')",5,23,115,61,1
+"('Korup', 'Sobeya')",5,23,115,61,1
+"('Korup', 'Rubi-Tele')",5,16,42,10,1
+"('Korup', 'Lope')",5,16,52,27,1
+"('Korup', 'Mt. Cameroon')",5,23,96,39,1
+"('Korup', 'Mt. Cristal')",5,23,96,39,1
+"('Korup', 'Ngogo')",5,23,96,69,1
+"('La Belgique', 'Sobeya')",5,23,116,61,1
+"('La Belgique', 'Mt. Cristal')",5,23,101,39,1
+"('La Belgique', 'Mt. Cameroon')",5,23,101,39,1
+"('La Belgique', 'Ngogo')",5,23,97,69,1
+"('La Belgique', 'Nyungwe')",5,6,15,2,1
+"('Loango', 'Nyungwe')",5,22,110,58,1
+"('Loango', 'Tai')",4,15,22,18,1
+"('Loango', 'Lope')",4,15,31,15,1
+"('Loango', 'Ngogo')",4,15,23,18,1
+"('Lope', 'Nyungwe')",5,22,103,64,1
+"('Lope', 'Tai')",4,15,33,29,1
+"('Lope', 'Rubi-Tele')",5,16,20,12,1
+"('Lope', 'Ngogo')",4,15,34,29,1
+"('Mt. Cameroon', 'Sobeya')",5,23,99,39,1
+"('Mt. Cameroon', 'Mt. Cristal')",5,23,114,25,1
+"('Mt. Cameroon', 'Ngogo')",5,23,61,51,1
+"('Mt. Cristal', 'Sobeya')",5,23,99,39,1
+"('Mt. Cristal', 'Ngogo')",5,23,61,51,1
+"('Ngogo', 'Nyungwe')",5,22,92,67,1
+"('Ngogo', 'Sobeya')",5,23,97,69,1
+"('Ngogo', 'Tai')",4,15,39,37,1
+"('Nyungwe', 'Tai')",5,22,91,67,1
+"('Sangaredi', 'Sobeya')",5,11,27,10,1
+"('Sangaredi', 'Tai')",5,21,68,59,1
