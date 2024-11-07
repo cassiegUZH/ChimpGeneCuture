@@ -1,5 +1,5 @@
 ################################################################################
-# Mantel correlation tests
+# BRMS models
 ################################################################################
 
 # Code for Bayesian regression models to test the effects of genetic data on sharing behaviors
@@ -73,7 +73,7 @@ library(dplyr)
                                    priors = priors_weak, aD = 0.99)
   
   
-  # This can be repleated for all combinations of genetic/geographic predictors and ecological predictors
+  # This can be repeated for all combinations of genetic/geographic predictors and ecological predictors
   # note that no genetic and geographic variables are in the same model due to high correlation
   
   # example model formulas:
