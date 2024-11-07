@@ -183,7 +183,7 @@ rm(list=ls())
     while (k<n){
       k <- k+1
       matrix2 = matrix.list[[k]]
-      mantel.test <- mantel(matrix1 ~ matrix2 + m.precipitation, nperm = 500, mrank = T)
+      mantel.test <- mantel(matrix1 ~ matrix2 + m.time, nperm = 500, mrank = T)
       # STORE TEST RESULTS
       matrix.r[k,i] <- mantel.test[1]
       matrix.r[i,k] <- mantel.test[1]
