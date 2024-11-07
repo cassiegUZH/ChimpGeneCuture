@@ -5,7 +5,7 @@ This folder contains all the necessary code and data required to perform social 
 
 ## Data
 
-These datasets can be found in the `Data` folder.
+These datasets can be found in the `data_sna` folder. These datasets are produced from the original datasets.
 
 - graphs of IBD and NePRA genetic relationships.
 - tool usage datasets
