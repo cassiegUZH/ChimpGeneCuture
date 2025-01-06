@@ -105,7 +105,7 @@ library(dplyr)
 # TEST LOGARITHM OF MINIMUM OBSERVATION TIME
   
   # log of obstime variable
-  d.complex$z.log.obstime <- scale(log(d.complex$min_observation_time_months))
+  d.complex$z.log.obstime <- scale(log(d.complex$min_observation_time))
 
   # example of formula:
   f_nepra_prop_obstime <- bf(shared ~ z.log.nepra + same_habitat + z.log.obstime + (1|dyad_ID) + (1|behavior))
